@@ -1,20 +1,20 @@
 <div align="center">
 
-  <!-- Ambient Obsidian-Wine Header (Warm, Low-Glare Crimson Glow) -->
+  <!-- Ambient Obsidian-Wine Header -->
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,65:180609,100:4C0519&height=155&section=header&text=HARSH%20KUMAR%20%E5%BD%B1&fontSize=46&fontColor=F0F6FC&animation=fadeIn&fontAlignY=42&desc=SOFTWARE%20SYSTEMS%20%E2%80%A2%20AGENTIC%20AI%20%E2%80%A2%20SPATIAL%20COMPUTING%20(XR)&descAlignY=68&descSize=13&stroke=30363D&strokeWidth=1" width="100%" alt="Harsh Kumar Header" />
 
-  <!-- Balanced 2-Line Sub-Header (Zero Orphan Word Wrapping) -->
+  <!-- Sub-Header -->
   <p>
     <code><b>B.Tech CSE @ IIIT Delhi</b></code> &nbsp;•&nbsp; <code><b>Full-Stack & Agentic AI Engineer</b></code><br/>
     <sub><i>"Mastery is not speed. It is the elimination of wasted motion."</i></sub>
   </p>
 
-  <!-- Single-Line Command Bar (All Icons & Live Links Restored) -->
+  <!-- Spaced Navigation Command Bar -->
   <p>
-    <a href="https://codeinshadows.vercel.app"><img src="https://img.shields.io/badge/HARSH.DEV-PORTFOLIO-9F1239?style=flat-square&logo=vercel&logoColor=white&labelColor=0D1117" alt="Portfolio" /></a>
-    <a href="https://linkedin.com/in/harsh-kumar-837a9139b"><img src="https://img.shields.io/badge/IN-LINKEDIN_CONNECT-161B22?style=flat-square&labelColor=0D1117&color=161B22" alt="LinkedIn" /></a>
-    <a href="https://leetcode.com/u/codezharsh/"><img src="https://img.shields.io/badge/LEETCODE-130%2B_DSA-161B22?style=flat-square&logo=leetcode&logoColor=F43F5E&labelColor=0D1117" alt="LeetCode" /></a>
-    <a href="mailto:harsh24239@iiitd.ac.in"><img src="https://img.shields.io/badge/EMAIL-CONTACT-161B22?style=flat-square&logo=gmail&logoColor=F43F5E&labelColor=0D1117" alt="Email" /></a>
+    <a href="https://codeinshadows.vercel.app"><img src="https://img.shields.io/badge/HARSH.DEV-PORTFOLIO-9F1239?style=flat-square&logo=vercel&logoColor=white&labelColor=0D1117" alt="Portfolio" /></a>&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/harsh-kumar-837a9139b"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-161B22?style=flat-square&logo=linkedin&logoColor=F43F5E&labelColor=0D1117" alt="LinkedIn" /></a>&nbsp;&nbsp;
+    <a href="https://leetcode.com/u/codezharsh"><img src="https://img.shields.io/badge/LEETCODE-130%2B_DSA-161B22?style=flat-square&logo=leetcode&logoColor=F43F5E&labelColor=0D1117" alt="LeetCode" /></a>&nbsp;&nbsp;
+    <a href="mailto:kumarharsh1851@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT-161B22?style=flat-square&logo=gmail&logoColor=F43F5E&labelColor=0D1117" alt="Email" /></a>
   </p>
 
 </div>
