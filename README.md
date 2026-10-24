@@ -1,36 +1,36 @@
 <div align="center">
 
-  <!-- Animated Crimson Wave Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F0406,100:E50914&height=180&section=header&text=HARSH.DEV%20%E5%BD%B1&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=CODE%20IN%20THE%20SHADOWS%20%E2%80%94%20SYSTEMS%20%E2%80%A2%20AGENTIC%20AI%20%E2%80%A2%20XR&descAlignY=58&descSize=16" width="100%" alt="Header Banner" />
+  <!-- Tactical Crimson-Obsidian Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,65:160507,100:E50914&height=175&section=header&text=HARSH.DEV%20%E5%BD%B1&fontSize=54&fontColor=F0F6FC&animation=fadeIn&fontAlignY=36&desc=CODE%20IN%20THE%20SHADOWS%20%E2%80%94%20SYSTEMS%20%E2%80%A2%20AGENTIC%20AI%20%E2%80%A2%20XR&descAlignY=60&descSize=15" width="100%" alt="Header Banner" />
 
-  <!-- Dynamic Crimson Typing Sub-Header -->
+  <!-- Deliberate Precision Typing Sub-Header -->
   <a href="https://codeinshadows.vercel.app">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2600&pause=1000&color=E50914&center=true&vCenter=true&width=780&lines=3RD-YEAR+CSE+UNDERGRADUATE+@+IIIT+DELHI;FULL-STACK+%26+AGENTIC+AI+SYSTEMS+ENGINEER;LANGGRAPH+%E2%80%A2+FASTAPI+%E2%80%A2+REACT+%E2%80%A2+UNITY+XR;PRECISION+OVER+VOLUME+%E2%80%94+LEAVE+NO+TRACE" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=1200&color=E50914&center=true&vCenter=true&width=780&lines=3RD-YEAR+CSE+UNDERGRADUATE+@+IIIT+DELHI;FULL-STACK+%26+AGENTIC+AI+SYSTEMS+ENGINEER;LANGGRAPH+%E2%80%A2+FASTAPI+%E2%80%A2+REACT+%E2%80%A2+UNITY+XR;PRECISION+OVER+VOLUME+%E2%80%94+LEAVE+NO+TRACE" alt="Typing SVG" />
   </a>
 
   <p><i>"Mastery is not speed. It is the elimination of wasted motion."</i></p>
 
-  <!-- Primary Command & Contact Channels -->
+  <!-- Unified Stealth-Luxury Command Bar (Crimson Primary CTA + Obsidian Secondary Channels) -->
   <p>
     <a href="https://codeinshadows.vercel.app">
       <img src="https://img.shields.io/badge/PORTFOLIO-HARSH.DEV-E50914?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" alt="Portfolio" />
     </a>
-    <a href="https://linkedin.com/in/harsh-kumar-837a9139b">
-      <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn" />
+    <a href="https://www.linkedin.com/in/harsh-kumar-837a9139b">
+      <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-161B22?style=for-the-badge&logo=linkedin&logoColor=E50914&labelColor=0D1117" alt="LinkedIn" />
     </a>
     <a href="https://leetcode.com/u/codezharsh">
-      <img src="https://img.shields.io/badge/LEETCODE-CODEZHARSH-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0D1117" alt="LeetCode" />
+      <img src="https://img.shields.io/badge/LEETCODE-CODEZHARSH-161B22?style=for-the-badge&logo=leetcode&logoColor=E50914&labelColor=0D1117" alt="LeetCode" />
     </a>
     <a href="mailto:kumarharsh1851@gmail.com">
-      <img src="https://img.shields.io/badge/EMAIL-TRANSMIT_SIGNAL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email" />
+      <img src="https://img.shields.io/badge/EMAIL-TRANSMIT_SIGNAL-161B22?style=for-the-badge&logo=gmail&logoColor=E50914&labelColor=0D1117" alt="Email" />
     </a>
   </p>
 
-  <!-- Live Telemetry Badges -->
+  <!-- Unified Telemetry Strip -->
   <p>
-    <img src="https://img.shields.io/badge/CLEARANCE-AVAILABLE_FOR_SWE_%26_AI_ROLES-2EA043?style=flat-square&labelColor=0D1117" alt="Status" />
-    <img src="https://img.shields.io/badge/BASE-IIIT_DELHI,_INDIA-E50914?style=flat-square&labelColor=0D1117" alt="Location" />
-    <img src="https://img.shields.io/badge/DSA_SOLVED-130%2B_PROBLEMS-FFA116?style=flat-square&labelColor=0D1117" alt="DSA" />
+    <img src="https://img.shields.io/badge/STATUS-AVAILABLE_FOR_SWE_%26_AI_ROLES-10B981?style=flat-square&labelColor=0D1117" alt="Status" />
+    <img src="https://img.shields.io/badge/BASE-IIIT_DELHI,_INDIA-161B22?style=flat-square&labelColor=0D1117" alt="Location" />
+    <img src="https://img.shields.io/badge/DSA_SOLVED-130%2B_PROBLEMS-E50914?style=flat-square&labelColor=0D1117" alt="DSA" />
   </p>
 
 </div>
@@ -92,7 +92,7 @@ core_domains:
       <h3>🔴 01. AI Placement Copilot</h3>
       <p>
         <img src="https://img.shields.io/badge/STATUS-ACTIVE_BUILD-E50914?style=flat-square&labelColor=0D1117" />
-        <img src="https://img.shields.io/badge/STACK-FASTAPI_•_LANGGRAPH_•_RAG-30363D?style=flat-square&labelColor=0D1117" />
+        <img src="https://img.shields.io/badge/STACK-FASTAPI_•_LANGGRAPH_•_RAG-161B22?style=flat-square&labelColor=0D1117" />
       </p>
       <p>Grounded placement preparation engine utilizing multi-agent LangGraph orchestration, ChromaDB vector retrieval, and a high-speed FastAPI + React interface.</p>
       <p><a href="https://github.com/harsh24239/ai-placement-copilot"><b>[ VIEW REPOSITORY ↗ ]</b></a></p>
@@ -100,8 +100,8 @@ core_domains:
     <td width="50%" valign="top">
       <h3>🔴 02. SQVS — Qualification Verifier</h3>
       <p>
-        <img src="https://img.shields.io/badge/STATUS-COMPLETED-2EA043?style=flat-square&labelColor=0D1117" />
-        <img src="https://img.shields.io/badge/STACK-REACT_•_NODE_•_MYSQL-30363D?style=flat-square&labelColor=0D1117" />
+        <img src="https://img.shields.io/badge/STATUS-COMPLETED-10B981?style=flat-square&labelColor=0D1117" />
+        <img src="https://img.shields.io/badge/STACK-REACT_•_NODE_•_MYSQL-161B22?style=flat-square&labelColor=0D1117" />
       </p>
       <p>Student Qualification Verification System engineered around strict Role-Based Access Control (RBAC), normalized relational schemas, and immutable audit trails.</p>
       <p><a href="https://codeinshadows.vercel.app/#projects"><b>[ CASE STUDY ↗ ]</b></a> · <a href="https://github.com/harsh24239"><b>[ GITHUB ↗ ]</b></a></p>
@@ -111,8 +111,8 @@ core_domains:
     <td width="50%" valign="top">
       <h3>🔴 03. 4-Layer University ERP</h3>
       <p>
-        <img src="https://img.shields.io/badge/STATUS-COMPLETED-2EA043?style=flat-square&labelColor=0D1117" />
-        <img src="https://img.shields.io/badge/STACK-JAVA_SWING_•_HIKARICP_•_MYSQL-30363D?style=flat-square&labelColor=0D1117" />
+        <img src="https://img.shields.io/badge/STATUS-COMPLETED-10B981?style=flat-square&labelColor=0D1117" />
+        <img src="https://img.shields.io/badge/STACK-JAVA_SWING_•_HIKARICP_•_MYSQL-161B22?style=flat-square&labelColor=0D1117" />
       </p>
       <p>Enterprise desktop ERP separating authentication (<code>university_auth</code>) and academic workflows across a strict 4-Layer Architecture with BCrypt & JUnit testing.</p>
       <p><a href="https://codeinshadows.vercel.app/#projects"><b>[ ARCHITECTURE ↗ ]</b></a> · <a href="https://github.com/harsh24239"><b>[ GITHUB ↗ ]</b></a></p>
@@ -121,7 +121,7 @@ core_domains:
       <h3>🔴 04. SpatialMath XR & BitePass</h3>
       <p>
         <img src="https://img.shields.io/badge/STATUS-RESEARCH_%26_UX-E50914?style=flat-square&labelColor=0D1117" />
-        <img src="https://img.shields.io/badge/STACK-UNITY_3D_•_C%23_•_FIGMA-30363D?style=flat-square&labelColor=0D1117" />
+        <img src="https://img.shields.io/badge/STACK-UNITY_3D_•_C%23_•_FIGMA-161B22?style=flat-square&labelColor=0D1117" />
       </p>
       <p><b>SpatialMath:</b> Interactive VR visualization platform for 3D undergraduate mathematics.<br/><b>BitePass:</b> Campus canteen ordering & real-time queue architecture for IIIT Delhi.</p>
       <p><a href="https://codeinshadows.vercel.app"><b>[ EXPLORE PORTFOLIO ↗ ]</b></a></p>
@@ -203,11 +203,11 @@ flowchart LR
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://leetcard.jacoblin.cool/codezharsh?theme=dark&font=Fira%20Code&ext=heatmap" width="75%" alt="LeetCode Stats" />
+        <img src="https://leetcard.jacoblin.cool/codezharsh?theme=dark&font=Fira%20Code&ext=heatmap&colors=0D1117,161B22,F0F6FC,8B949E,E50914,10B981,F59E0B,E50914" width="75%" alt="LeetCode Stats" />
       </td>
     </tr>
   </table>
 </div>
 
-<!-- Animated Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E50914,50:1F0406,100:0D1117&height=110&section=footer&text=PRECISION%20OVER%20VOLUME%20%E2%80%A2%20LEAVE%20NO%20TRACE%20%E5%BD%B1&fontSize=16&fontColor=C9D1D9&fontAlignY=65" width="100%" alt="Footer Banner" />
+<!-- Animated Footer Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E50914,35:160507,100:0D1117&height=110&section=footer&text=PRECISION%20OVER%20VOLUME%20%E2%80%A2%20LEAVE%20NO%20TRACE%20%E5%BD%B1&fontSize=15&fontColor=C9D1D9&fontAlignY=65" width="100%" alt="Footer Banner" />
