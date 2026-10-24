@@ -1,20 +1,19 @@
 <div align="center">
 
-  <!-- Ambient Obsidian-Wine Header -->
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,65:180609,100:4C0519&height=155&section=header&text=HARSH%20KUMAR%20%E5%BD%B1&fontSize=46&fontColor=F0F6FC&animation=fadeIn&fontAlignY=42&desc=SOFTWARE%20SYSTEMS%20%E2%80%A2%20AGENTIC%20AI%20%E2%80%A2%20SPATIAL%20COMPUTING%20(XR)&descAlignY=68&descSize=13&stroke=30363D&strokeWidth=1" width="100%" alt="Harsh Kumar Header" />
+  <!-- Soft-Edge Animated Crimson Studio Header -->
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,55:1A0508,100:E50914&height=155&section=header&text=HARSH%20KUMAR%20%E5%BD%B1&fontSize=46&fontColor=F0F6FC&animation=fadeIn&fontAlignY=42&desc=SOFTWARE%20SYSTEMS%20%E2%80%A2%20AGENTIC%20AI%20%E2%80%A2%20SPATIAL%20COMPUTING%20(XR)&descAlignY=68&descSize=13" width="100%" alt="Harsh Kumar Header" />
 
-  <!-- Sub-Header -->
-  <p>
-    <code><b>B.Tech CSE @ IIIT Delhi</b></code> &nbsp;•&nbsp; <code><b>Full-Stack & Agentic AI Engineer</b></code><br/>
-    <sub><i>"Mastery is not speed. It is the elimination of wasted motion."</i></sub>
-  </p>
+  <!-- Precision Terminal Typing Animation -->
+  <a href="https://codeinshadows.vercel.app">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3200&pause=1400&color=E50914&center=true&vCenter=true&width=720&height=34&lines=%3E+B.Tech+CSE+@+IIIT+Delhi+%E2%80%94+Full-Stack+%26+AI+Engineer;%3E+Architecting+Multi-Agent+RAG,+Web+Systems+%26+XR;%3E+%22Mastery+is+the+elimination+of+wasted+motion.%22" alt="Terminal Typing Animation" />
+  </a>
 
-  <!-- Spaced Navigation Command Bar -->
+  <!-- Single-Line Command Bar (Compact Labels = Zero Wrapping, Zero Blue Ticks) -->
   <p>
-    <a href="https://codeinshadows.vercel.app"><img src="https://img.shields.io/badge/HARSH.DEV-PORTFOLIO-9F1239?style=flat-square&logo=vercel&logoColor=white&labelColor=0D1117" alt="Portfolio" /></a>&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/harsh-kumar-837a9139b"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-161B22?style=flat-square&logo=linkedin&logoColor=F43F5E&labelColor=0D1117" alt="LinkedIn" /></a>&nbsp;&nbsp;
-    <a href="https://leetcode.com/u/codezharsh"><img src="https://img.shields.io/badge/LEETCODE-130%2B_DSA-161B22?style=flat-square&logo=leetcode&logoColor=F43F5E&labelColor=0D1117" alt="LeetCode" /></a>&nbsp;&nbsp;
-    <a href="mailto:kumarharsh1851@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT-161B22?style=flat-square&logo=gmail&logoColor=F43F5E&labelColor=0D1117" alt="Email" /></a>
+    <a href="https://codeinshadows.vercel.app"><img src="https://img.shields.io/badge/HARSH.DEV-PORTFOLIO-E50914?style=flat-square&logo=vercel&logoColor=white&labelColor=0D1117" alt="Portfolio" /></a>
+    <a href="https://www.linkedin.com/in/harsh-kumar-837a9139b"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-161B22?style=flat-square&logo=linkedin&logoColor=E50914&labelColor=0D1117" alt="LinkedIn" /></a>
+    <a href="https://leetcode.com/u/codezharsh"><img src="https://img.shields.io/badge/LEETCODE-130%2B_DSA-161B22?style=flat-square&logo=leetcode&logoColor=E50914&labelColor=0D1117" alt="LeetCode" /></a>
+    <a href="mailto:kumarharsh1851@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT-161B22?style=flat-square&logo=gmail&logoColor=E50914&labelColor=0D1117" alt="Email" /></a>
   </p>
 
 </div>
@@ -74,13 +73,13 @@ clearance: Open to SWE & AI Roles</pre>
       <h4>⚪ SQVS — Credential Verifier &nbsp;<sub><code>SHIPPED</code></sub></h4>
       <p><sub><code>React.js</code> · <code>Node.js</code> · <code>Express</code> · <code>MySQL</code></sub></p>
       <p>Student Qualification Verification System engineered around strict Role-Based Access Control (RBAC), normalized relational schemas, and audit logs.</p>
-      <p><a href="https://codeinshadows.vercel.app"><kbd> CASE STUDY ↗ </kbd></a></p>
+      <p><a href="https://codeinshadows.vercel.app/#projects"><kbd> CASE STUDY ↗ </kbd></a></p>
     </td>
     <td width="50%" valign="top">
       <h4>⚪ 4-Layer University ERP &nbsp;<sub><code>SHIPPED</code></sub></h4>
       <p><sub><code>Java Swing</code> · <code>JDBC</code> · <code>HikariCP</code> · <code>JUnit 5</code></sub></p>
       <p>Modular desktop ERP isolating authentication (<code>university_auth</code>) and academic operations across a strict <code>UI → Service → DAO → DB</code> architecture.</p>
-      <p><a href="https://codeinshadows.vercel.app"><kbd> ARCHITECTURE ↗ </kbd></a></p>
+      <p><a href="https://codeinshadows.vercel.app/#projects"><kbd> ARCHITECTURE ↗ </kbd></a></p>
     </td>
   </tr>
 </table>
@@ -89,7 +88,6 @@ clearance: Open to SWE & AI Roles</pre>
 <summary><b><code>+ INSPECT SYSTEM ARCHITECTURE BLUEPRINTS (MERMAID.JS)</code></b></summary>
 <br/>
 
-#### `A. AI Placement Copilot — Multi-Agent LangGraph Pipeline`
 ```mermaid
 flowchart LR
     UI["React + Vite Client"] -->|REST JSON| API["FastAPI Gateway"]
@@ -100,21 +98,9 @@ flowchart LR
     RAG --> LLM["Gemini API"]
     INT --> LLM
     LLM --> UI
-    style SUP fill:#881337,stroke:#F0F6FC,color:#FFFFFF
+    style SUP fill:#E50914,stroke:#F0F6FC,color:#FFFFFF
     style API fill:#0D1117,stroke:#30363D,color:#F0F6FC
-    style VDB fill:#0D1117,stroke:#F43F5E,color:#F0F6FC
-```
-
-#### `B. University ERP — 4-Layer Enterprise Security Flow`
-```mermaid
-flowchart LR
-    SW["1. Java Swing UI"] --> SRV["2. Service Layer (RBAC + BCrypt)"]
-    SRV --> DAO["3. DAO Layer (JDBC Contracts)"]
-    DAO --> POOL["HikariCP Connection Pool"]
-    POOL --> AUTH[("MySQL: university_auth")]
-    POOL --> ERP[("MySQL: university_erp")]
-    style SRV fill:#881337,stroke:#F0F6FC,color:#FFFFFF
-    style POOL fill:#0D1117,stroke:#F43F5E,color:#F0F6FC
+    style VDB fill:#0D1117,stroke:#E50914,color:#F0F6FC
 ```
 </details>
 
@@ -126,10 +112,10 @@ flowchart LR
 
 | Domain | Technologies |
 | :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/Python-161B22?style=flat-square&logo=python&logoColor=F43F5E) ![Java](https://img.shields.io/badge/Java-161B22?style=flat-square&logo=openjdk&logoColor=F43F5E) ![TypeScript](https://img.shields.io/badge/TypeScript-161B22?style=flat-square&logo=typescript&logoColor=F43F5E) ![JavaScript](https://img.shields.io/badge/JavaScript-161B22?style=flat-square&logo=javascript&logoColor=F43F5E) ![C++](https://img.shields.io/badge/C%2FC%2B%2B-161B22?style=flat-square&logo=cplusplus&logoColor=F43F5E) ![C#](https://img.shields.io/badge/C%23-161B22?style=flat-square&logo=sharp&logoColor=F43F5E) ![SQL](https://img.shields.io/badge/SQL-161B22?style=flat-square&logo=mysql&logoColor=F43F5E) |
-| **Web & Backend** | ![React](https://img.shields.io/badge/React.js-161B22?style=flat-square&logo=react&logoColor=F43F5E) ![Vite](https://img.shields.io/badge/Vite-161B22?style=flat-square&logo=vite&logoColor=F43F5E) ![FastAPI](https://img.shields.io/badge/FastAPI-161B22?style=flat-square&logo=fastapi&logoColor=F43F5E) ![Node.js](https://img.shields.io/badge/Node.js-161B22?style=flat-square&logo=nodedotjs&logoColor=F43F5E) ![Express](https://img.shields.io/badge/Express.js-161B22?style=flat-square&logo=express&logoColor=F43F5E) ![REST](https://img.shields.io/badge/REST_APIs-161B22?style=flat-square&logo=insomnia&logoColor=F43F5E) |
-| **AI, Data & XR** | ![LangGraph](https://img.shields.io/badge/LangGraph-161B22?style=flat-square&logo=chainlink&logoColor=F43F5E) ![ChromaDB](https://img.shields.io/badge/ChromaDB_RAG-161B22?style=flat-square&logo=databricks&logoColor=F43F5E) ![Gemini](https://img.shields.io/badge/Gemini_API-161B22?style=flat-square&logo=googlegemini&logoColor=F43F5E) ![MySQL](https://img.shields.io/badge/MySQL-161B22?style=flat-square&logo=mysql&logoColor=F43F5E) ![HikariCP](https://img.shields.io/badge/HikariCP-161B22?style=flat-square&logo=apachemaven&logoColor=F43F5E) ![Unity](https://img.shields.io/badge/Unity_3D-161B22?style=flat-square&logo=unity&logoColor=F43F5E) |
-| **Engineering Craft** | ![RBAC](https://img.shields.io/badge/RBAC_%26_JWT-161B22?style=flat-square&logo=jsonwebtokens&logoColor=F43F5E) ![JUnit5](https://img.shields.io/badge/JUnit_5-161B22?style=flat-square&logo=junit5&logoColor=F43F5E) ![Git](https://img.shields.io/badge/Git_%26_Linux-161B22?style=flat-square&logo=linux&logoColor=F43F5E) ![Blender](https://img.shields.io/badge/Blender-161B22?style=flat-square&logo=blender&logoColor=F43F5E) ![Figma](https://img.shields.io/badge/Figma-161B22?style=flat-square&logo=figma&logoColor=F43F5E) |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-161B22?style=flat-square&logo=python&logoColor=E50914) ![Java](https://img.shields.io/badge/Java-161B22?style=flat-square&logo=openjdk&logoColor=E50914) ![TypeScript](https://img.shields.io/badge/TypeScript-161B22?style=flat-square&logo=typescript&logoColor=E50914) ![JavaScript](https://img.shields.io/badge/JavaScript-161B22?style=flat-square&logo=javascript&logoColor=E50914) ![C++](https://img.shields.io/badge/C%2FC%2B%2B-161B22?style=flat-square&logo=cplusplus&logoColor=E50914) ![C#](https://img.shields.io/badge/C%23-161B22?style=flat-square&logo=sharp&logoColor=E50914) ![SQL](https://img.shields.io/badge/SQL-161B22?style=flat-square&logo=mysql&logoColor=E50914) |
+| **Web & Backend** | ![React](https://img.shields.io/badge/React.js-161B22?style=flat-square&logo=react&logoColor=E50914) ![Vite](https://img.shields.io/badge/Vite-161B22?style=flat-square&logo=vite&logoColor=E50914) ![FastAPI](https://img.shields.io/badge/FastAPI-161B22?style=flat-square&logo=fastapi&logoColor=E50914) ![Node.js](https://img.shields.io/badge/Node.js-161B22?style=flat-square&logo=nodedotjs&logoColor=E50914) ![Express](https://img.shields.io/badge/Express.js-161B22?style=flat-square&logo=express&logoColor=E50914) ![REST](https://img.shields.io/badge/REST_APIs-161B22?style=flat-square&logo=insomnia&logoColor=E50914) |
+| **AI, Data & XR** | ![LangGraph](https://img.shields.io/badge/LangGraph-161B22?style=flat-square&logo=chainlink&logoColor=E50914) ![ChromaDB](https://img.shields.io/badge/ChromaDB_RAG-161B22?style=flat-square&logo=databricks&logoColor=E50914) ![Gemini](https://img.shields.io/badge/Gemini_API-161B22?style=flat-square&logo=googlegemini&logoColor=E50914) ![MySQL](https://img.shields.io/badge/MySQL-161B22?style=flat-square&logo=mysql&logoColor=E50914) ![HikariCP](https://img.shields.io/badge/HikariCP-161B22?style=flat-square&logo=apachemaven&logoColor=E50914) ![Unity](https://img.shields.io/badge/Unity_3D-161B22?style=flat-square&logo=unity&logoColor=E50914) |
+| **Engineering Craft** | ![RBAC](https://img.shields.io/badge/RBAC_%26_JWT-161B22?style=flat-square&logo=jsonwebtokens&logoColor=E50914) ![JUnit5](https://img.shields.io/badge/JUnit_5-161B22?style=flat-square&logo=junit5&logoColor=E50914) ![Git](https://img.shields.io/badge/Git_%26_Linux-161B22?style=flat-square&logo=linux&logoColor=E50914) ![Blender](https://img.shields.io/badge/Blender-161B22?style=flat-square&logo=blender&logoColor=E50914) ![Figma](https://img.shields.io/badge/Figma-161B22?style=flat-square&logo=figma&logoColor=E50914) |
 
 </div>
 
@@ -141,7 +127,7 @@ flowchart LR
   <table>
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=harsh24239&theme=dark&background=0D1117&border=30363D&ring=9F1239&fire=F43F5E&currStreakLabel=F0F6FC&sideLabels=8B949E&dates=8B949E" width="100%" alt="GitHub Streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=harsh24239&theme=dark&background=0D1117&border=30363D&ring=E50914&fire=E50914&currStreakLabel=F0F6FC&sideLabels=8B949E&dates=8B949E" width="100%" alt="GitHub Streak" />
       </td>
       <td width="50%" align="center">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh24239&layout=compact&langs_count=6&bg_color=0D1117&title_color=F0F6FC&text_color=8B949E&border_color=30363D" width="100%" alt="Top Languages" />
