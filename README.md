@@ -29,106 +29,106 @@
 
 <br/>
 
----
-
 ### `01 // DISCIPLINES`
 
 <table>
   <tr>
     <td width="333" valign="top">
-      <p>
-        <sub><code>01 // ARCHITECTURE</code></sub><br/>
-        <b><big>Full-Stack Systems</big></b>
-      </p>
-      <p>Modular backends, role-gated security, connection pooling, and clean API contracts built for production.</p>
+      <sub><code>01 // ARCHITECTURE</code></sub>
+      <p><b><big>Full-Stack Systems</big></b></p>
+      <p><sub>Modular backends, role-gated security, connection pooling, and clean API contracts built for production.</sub></p>
     </td>
     <td width="333" valign="top">
-      <p>
-        <sub><code>02 // INTELLIGENCE</code></sub><br/>
-        <b><big>Agentic AI &amp; RAG</big></b>
-      </p>
-      <p>Stateful multi-agent orchestration, vector memory retrieval, and context-grounded model workflows.</p>
+      <sub><code>02 // INTELLIGENCE</code></sub>
+      <p><b><big>Agentic AI &amp; RAG</big></b></p>
+      <p><sub>Stateful multi-agent orchestration, vector memory retrieval, and context-grounded model workflows.</sub></p>
     </td>
     <td width="334" valign="top">
-      <p>
-        <sub><code>03 // INTERACTION</code></sub><br/>
-        <b><big>Spatial XR &amp; Craft</big></b>
-      </p>
-      <p>Immersive 3D visualization, physics-driven haptics, and high-precision interfaces with zero visual clutter.</p>
+      <sub><code>03 // INTERACTION</code></sub>
+      <p><b><big>Spatial XR &amp; Craft</big></b></p>
+      <p><sub>Immersive 3D visualization, physics-driven haptics, and high-precision interfaces with zero visual clutter.</sub></p>
     </td>
   </tr>
 </table>
 
 <br/>
 
----
-
 ### `02 // SELECTED WORKS`
 
+<!-- FLAGSHIP CARD (SEPARATE TABLE PREVENTS ZEBRA-STRIPING CLASH) -->
 <table>
-  <!-- ROW 1: FLAGSHIP FULL-WIDTH SPAN -->
   <tr>
-    <td colspan="2" width="1000" valign="top">
+    <td width="1000" valign="top">
       <p>
         <img src="https://img.shields.io/badge/01-FLAGSHIP_BUILD-9F1239?style=flat-square&labelColor=0D1117" alt="01" />&nbsp;
         <img src="https://img.shields.io/badge/AGENTIC_AI_%2B_FULL_STACK-20202A?style=flat-square&labelColor=0D1117" alt="Domain" />&nbsp;
         <a href="https://github.com/harsh24239/ai-placement-copilot">
           <img src="https://img.shields.io/badge/SOURCE_CODE-GITHUB_%E2%86%97-4C0519?style=flat-square&logo=github&logoColor=FB7185" alt="Repo" />
-        </a><br/>
-        <b><big>AI Placement Copilot</big></b>
+        </a>
       </p>
-      <p>Stateful multi-agent interview and preparation platform unifying practice workflows, grounded vector retrieval, and real-time evaluation.</p>
+      <p>
+        <b><big>AI Placement Copilot</big></b><br/>
+        <sub>Stateful multi-agent interview and preparation platform unifying practice workflows, grounded vector retrieval, and real-time evaluation.</sub>
+      </p>
       <p>
         <kbd>React + Vite</kbd> &nbsp;➔&nbsp; <kbd>FastAPI</kbd> &nbsp;➔&nbsp; <kbd>LangGraph Router</kbd> &nbsp;➔&nbsp; <kbd>ChromaDB</kbd> &nbsp;➔&nbsp; <kbd>Gemini API</kbd>
       </p>
     </td>
   </tr>
+</table>
 
-  <!-- ROW 2: SPATIAL XR -->
+<!-- 2x2 PROJECT BENTO GRID -->
+<table>
   <tr>
     <td width="500" valign="top">
       <p>
         <img src="https://img.shields.io/badge/02-XR_SIMULATION-9F1239?style=flat-square&labelColor=0D1117" alt="02" />&nbsp;
         <a href="https://github.com/harsh24239/vr-manual-milling-simulator">
           <img src="https://img.shields.io/badge/GITHUB_%E2%86%97-20202A?style=flat-square&logo=github&logoColor=FB7185" alt="Repo" />
-        </a><br/>
-        <b><big>VR Manual Milling</big></b>
+        </a>
       </p>
-      <p>Physics-driven virtual machining trainer mapping simulated cutting force to real-time controller haptics.</p>
+      <p>
+        <b><big>VR Manual Milling</big></b><br/>
+        <sub>Physics-driven virtual machining trainer mapping simulated cutting force to real-time controller haptics.</sub>
+      </p>
       <p>
         <kbd>Unity 3D</kbd>&nbsp; <kbd>C#</kbd>&nbsp; <kbd>XR Toolkit</kbd>&nbsp; <kbd>Blender</kbd>
       </p>
     </td>
     <td width="500" valign="top">
       <p>
-        <img src="https://img.shields.io/badge/03-SPATIAL_COMPUTING-20202A?style=flat-square&labelColor=0D1117" alt="03" /><br/>
-        <b><big>SpatialMath XR</big></b>
+        <img src="https://img.shields.io/badge/03-SPATIAL_COMPUTING-20202A?style=flat-square&labelColor=0D1117" alt="03" />
       </p>
-      <p>Interactive 3D computation environment translating abstract multivariable math into manipulable spatial scenes.</p>
+      <p>
+        <b><big>SpatialMath XR</big></b><br/>
+        <sub>Interactive 3D computation environment translating abstract multivariable math into manipulable spatial scenes.</sub>
+      </p>
       <p>
         <kbd>Unity 3D</kbd>&nbsp; <kbd>C#</kbd>&nbsp; <kbd>3D Visualization</kbd>&nbsp; <kbd>Shaders</kbd>
       </p>
     </td>
   </tr>
-
-  <!-- ROW 3: SYSTEMS & SECURITY -->
   <tr>
     <td width="500" valign="top">
       <p>
-        <img src="https://img.shields.io/badge/04-SECURITY_%26_AUDIT-9F1239?style=flat-square&labelColor=0D1117" alt="04" /><br/>
-        <b><big>SQVS — Credential Verifier</big></b>
+        <img src="https://img.shields.io/badge/04-SECURITY_%26_AUDIT-9F1239?style=flat-square&labelColor=0D1117" alt="04" />
       </p>
-      <p>Role-gated qualification verification system built around strict user permissions, relational records, and audit trails.</p>
+      <p>
+        <b><big>SQVS — Credential Verifier</big></b><br/>
+        <sub>Role-gated qualification verification system built around strict user permissions, relational records, and audit trails.</sub>
+      </p>
       <p>
         <kbd>React</kbd>&nbsp; <kbd>Node.js</kbd>&nbsp; <kbd>Express</kbd>&nbsp; <kbd>MySQL</kbd>&nbsp; <kbd>RBAC</kbd>
       </p>
     </td>
     <td width="500" valign="top">
       <p>
-        <img src="https://img.shields.io/badge/05-LAYERED_ARCHITECTURE-20202A?style=flat-square&labelColor=0D1117" alt="05" /><br/>
-        <b><big>4-Layer University ERP</big></b>
+        <img src="https://img.shields.io/badge/05-LAYERED_ARCHITECTURE-20202A?style=flat-square&labelColor=0D1117" alt="05" />
       </p>
-      <p>Decoupled desktop ERP isolating presentation, BCrypt/RBAC service logic, DAO persistence, and pooled storage.</p>
+      <p>
+        <b><big>4-Layer University ERP</big></b><br/>
+        <sub>Decoupled desktop ERP isolating presentation, BCrypt/RBAC service logic, DAO persistence, and pooled storage.</sub>
+      </p>
       <p>
         <kbd>Java Swing</kbd>&nbsp; <kbd>JDBC</kbd>&nbsp; <kbd>HikariCP</kbd>&nbsp; <kbd>BCrypt</kbd>&nbsp; <kbd>JUnit 5</kbd>
       </p>
@@ -138,59 +138,61 @@
 
 <br/>
 
----
-
 ### `03 // TOOLKIT`
 
 <table>
   <tr>
-    <td width="180" valign="middle"><b>Languages</b></td>
-    <td width="540" valign="middle"><code>Python</code> · <code>Java</code> · <code>TypeScript</code> · <code>JavaScript</code> · <code>C/C++</code> · <code>C#</code> · <code>SQL</code></td>
-    <td width="280" align="right" valign="middle">
-      <img src="https://skillicons.dev/icons?i=py,java,ts,js,cpp,cs&theme=dark" height="28" alt="Languages" />
+    <td width="170" valign="middle"><b>Languages</b></td>
+    <td width="590" valign="middle"><kbd>Python</kbd>&nbsp; <kbd>Java</kbd>&nbsp; <kbd>TypeScript</kbd>&nbsp; <kbd>JavaScript</kbd>&nbsp; <kbd>C/C++</kbd>&nbsp; <kbd>C#</kbd>&nbsp; <kbd>SQL</kbd></td>
+    <td width="240" align="right" valign="middle">
+      <img src="https://skillicons.dev/icons?i=py,java,ts,js,cpp,cs&theme=dark" height="26" alt="Languages" />
     </td>
   </tr>
   <tr>
-    <td width="180" valign="middle"><b>Web &amp; Systems</b></td>
-    <td width="540" valign="middle"><code>React</code> · <code>Vite</code> · <code>FastAPI</code> · <code>Node.js</code> · <code>Express</code> · <code>HikariCP</code> · <code>JUnit 5</code></td>
-    <td width="280" align="right" valign="middle">
-      <img src="https://skillicons.dev/icons?i=react,vite,fastapi,nodejs,express&theme=dark" height="28" alt="Web" />
+    <td width="170" valign="middle"><b>Web &amp; Systems</b></td>
+    <td width="590" valign="middle"><kbd>React</kbd>&nbsp; <kbd>Vite</kbd>&nbsp; <kbd>FastAPI</kbd>&nbsp; <kbd>Node.js</kbd>&nbsp; <kbd>Express</kbd>&nbsp; <kbd>HikariCP</kbd>&nbsp; <kbd>JUnit&nbsp;5</kbd></td>
+    <td width="240" align="right" valign="middle">
+      <img src="https://skillicons.dev/icons?i=react,vite,fastapi,nodejs,express&theme=dark" height="26" alt="Web" />
     </td>
   </tr>
   <tr>
-    <td width="180" valign="middle"><b>AI &amp; Data</b></td>
-    <td width="540" valign="middle"><code>LangGraph</code> · <code>Multi-Agent RAG</code> · <code>ChromaDB</code> · <code>Gemini API</code> · <code>MySQL</code></td>
-    <td width="280" align="right" valign="middle">
-      <img src="https://skillicons.dev/icons?i=mysql,linux,git&theme=dark" height="28" alt="AI and Data" />
+    <td width="170" valign="middle"><b>AI &amp; Data</b></td>
+    <td width="590" valign="middle"><kbd>LangGraph</kbd>&nbsp; <kbd>Multi-Agent RAG</kbd>&nbsp; <kbd>ChromaDB</kbd>&nbsp; <kbd>Gemini API</kbd>&nbsp; <kbd>MySQL</kbd></td>
+    <td width="240" align="right" valign="middle">
+      <img src="https://skillicons.dev/icons?i=mysql,linux,git&theme=dark" height="26" alt="AI and Data" />
     </td>
   </tr>
   <tr>
-    <td width="180" valign="middle"><b>Spatial &amp; Craft</b></td>
-    <td width="540" valign="middle"><code>Unity 3D</code> · <code>XR Interaction Toolkit</code> · <code>Blender</code> · <code>Figma</code></td>
-    <td width="280" align="right" valign="middle">
-      <img src="https://skillicons.dev/icons?i=unity,blender,figma&theme=dark" height="28" alt="Spatial" />
+    <td width="170" valign="middle"><b>Spatial &amp; Craft</b></td>
+    <td width="590" valign="middle"><kbd>Unity 3D</kbd>&nbsp; <kbd>XR Toolkit</kbd>&nbsp; <kbd>Blender</kbd>&nbsp; <kbd>Figma</kbd></td>
+    <td width="240" align="right" valign="middle">
+      <img src="https://skillicons.dev/icons?i=unity,blender,figma&theme=dark" height="26" alt="Spatial" />
     </td>
   </tr>
 </table>
 
 <br/>
 
----
-
 ### `04 // TELEMETRY`
 
-<div align="center">
-  <a href="https://github.com/harsh24239">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=harsh24239&theme=dark&background=0D1117&border=30363D&ring=9F1239&fire=FB7185&currStreakLabel=F0F6FC&sideLabels=8B949E&dates=8B949E" height="165" alt="GitHub contribution streak" />
-  </a>&nbsp;&nbsp;
-  <a href="https://github.com/harsh24239?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh24239&layout=compact&langs_count=6&bg_color=0D1117&title_color=FB7185&text_color=ABB4C0&border_color=30363D" height="165" alt="Most used repository languages" />
-  </a>
-</div>
+<table>
+  <tr>
+    <td width="500" align="center" valign="middle">
+      <a href="https://github.com/harsh24239">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=harsh24239&theme=dark&background=0D1117&hide_border=true&ring=9F1239&fire=FB7185&currStreakLabel=F0F6FC&sideLabels=8B949E&dates=8B949E" width="100%" alt="GitHub contribution streak" />
+      </a>
+    </td>
+    <td width="500" align="center" valign="middle">
+      <a href="https://github.com/harsh24239?tab=repositories">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh24239&layout=compact&langs_count=6&bg_color=0D1117&hide_border=true&title_color=FB7185&text_color=ABB4C0" width="100%" alt="Most used repository languages" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
 <div align="center">
   <p><sub><code>DESIGN WITH INTENT</code> &nbsp;•&nbsp; <code>PRECISION OVER VOLUME</code> &nbsp;•&nbsp; <code>HARSH.DEV 影</code></sub></p>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:65142B,55:210B16,100:0D1117&height=85&section=footer" width="100%" alt="Dark wine footer wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=65142B&height=85&section=footer" width="100%" alt="Footer wave" />
 </div>
