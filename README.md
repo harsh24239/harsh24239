@@ -1,30 +1,20 @@
 <div align="center">
 
-  <!-- Minimalist Architectural Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:130608,100:0D1117&height=140&section=header&text=HARSH%20KUMAR%20%E5%BD%B1&fontSize=44&fontColor=F0F6FC&fontAlignY=42&desc=SOFTWARE%20SYSTEMS%20%E2%80%A2%20AGENTIC%20AI%20%E2%80%A2%20SPATIAL%20COMPUTING%20(XR)&descAlignY=68&descSize=13&stroke=30363D&strokeWidth=1" width="100%" alt="Harsh Kumar Header" />
+  <!-- Soft-Edge Animated Crimson Studio Header -->
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,55:1A0508,100:E50914&height=155&section=header&text=HARSH%20KUMAR%20%E5%BD%B1&fontSize=46&fontColor=F0F6FC&animation=fadeIn&fontAlignY=42&desc=SOFTWARE%20SYSTEMS%20%E2%80%A2%20AGENTIC%20AI%20%E2%80%A2%20SPATIAL%20COMPUTING%20(XR)&descAlignY=68&descSize=13" width="100%" alt="Harsh Kumar Header" />
 
-  <br/>
+  <!-- Precision Terminal Typing Animation -->
+  <a href="https://codeinshadows.vercel.app">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3200&pause=1400&color=E50914&center=true&vCenter=true&width=720&height=34&lines=%3E+B.Tech+CSE+@+IIIT+Delhi+%E2%80%94+Full-Stack+%26+AI+Engineer;%3E+Architecting+Multi-Agent+RAG,+Web+Systems+%26+XR;%3E+%22Mastery+is+the+elimination+of+wasted+motion.%22" alt="Terminal Typing Animation" />
+  </a>
 
-  <!-- Single-Line Unified Navigation Bar (Never Wraps) -->
+  <!-- Single-Line Command Bar (Compact Labels = Zero Wrapping, Zero Blue Ticks) -->
   <p>
-    <a href="https://codeinshadows.vercel.app">
-      <img src="https://img.shields.io/badge/HARSH.DEV-PORTFOLIO-E50914?style=flat-square&logo=vercel&logoColor=white&labelColor=0D1117" alt="Portfolio" />
-    </a>
-    &nbsp;
-    <a href="https://linkedin.com/in/harsh-kumar-837a9139b">
-      <img src="https://img.shields.io/badge/LINKEDIN-HARSH_KUMAR-161B22?style=flat-square&logo=linkedin&logoColor=E50914&labelColor=0D1117" alt="LinkedIn" />
-    </a>
-    &nbsp;
-    <a href="https://leetcode.com/u/codezharsh/">
-      <img src="https://img.shields.io/badge/LEETCODE-130%2B_SOLVED-161B22?style=flat-square&logo=leetcode&logoColor=E50914&labelColor=0D1117" alt="LeetCode" />
-    </a>
-    &nbsp;
-    <a href="mailto:harsh24239@iiitd.ac.in">
-      <img src="https://img.shields.io/badge/CONTACT-IIITD_EMAIL-161B22?style=flat-square&logo=gmail&logoColor=E50914&labelColor=0D1117" alt="Email" />
-    </a>
+    <a href="https://codeinshadows.vercel.app"><img src="https://img.shields.io/badge/HARSH.DEV-PORTFOLIO-E50914?style=flat-square&logo=vercel&logoColor=white&labelColor=0D1117" alt="Portfolio" /></a>
+    <a href="https://www.linkedin.com/in/harsh-kumar-837a9139b"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-161B22?style=flat-square&logo=linkedin&logoColor=E50914&labelColor=0D1117" alt="LinkedIn" /></a>
+    <a href="https://leetcode.com/u/codezharsh"><img src="https://img.shields.io/badge/LEETCODE-130%2B_DSA-161B22?style=flat-square&logo=leetcode&logoColor=E50914&labelColor=0D1117" alt="LeetCode" /></a>
+    <a href="mailto:kumarharsh1851@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT-161B22?style=flat-square&logo=gmail&logoColor=E50914&labelColor=0D1117" alt="Email" /></a>
   </p>
-
-  <p><sub><b>3rd-Year Computer Science & Engineering @ IIIT Delhi</b> &nbsp;•&nbsp; New Delhi, India &nbsp;•&nbsp; <i>"Mastery is the elimination of wasted motion."</i></sub></p>
 
 </div>
 
@@ -34,23 +24,23 @@
 
 <table>
   <tr>
-    <td width="52%" valign="top">
-      <h4><code>SYSTEM SPECIFICATION</code></h4>
+    <td width="50%" valign="top">
+      <h4><code>SYSTEM TELEMETRY</code></h4>
       <pre lang="yaml">
-engineer:    Harsh Kumar (影)
-institution: IIIT Delhi (B.Tech CSE)
-focus:       Full-Stack, Agentic AI & XR
-experience:  3+ Years Active Building
-shipped:     6+ Production & Research Systems
-status:      Open to SWE & AI Roles</pre>
+operative: Harsh Kumar (影)
+institute: IIIT Delhi (B.Tech CSE)
+focus:     Web, Agentic AI & XR
+tenure:    3+ Years Building
+shipped:   6+ Core Systems
+clearance: Open to SWE & AI Roles</pre>
     </td>
-    <td width="48%" valign="top">
-      <h4><code>CORE ENGINEERING DOMAINS</code></h4>
+    <td width="50%" valign="top">
+      <h4><code>ENGINEERING DOMAINS</code></h4>
       <ul>
-        <li><b>Agentic AI & RAG:</b> Multi-agent orchestration with <code>LangGraph</code>, <code>ChromaDB</code> & <code>FastAPI</code>.</li>
-        <li><b>Full-Stack Web:</b> Scalable web apps with <code>React</code>, <code>TypeScript</code>, <code>Node.js</code> & <code>Express</code>.</li>
-        <li><b>Enterprise Architecture:</b> 4-Layer systems, <code>RBAC</code>, <code>HikariCP</code>, <code>BCrypt</code> & <code>JUnit 5</code>.</li>
-        <li><b>Spatial Computing (XR):</b> 3D simulation & haptic feedback in <code>Unity</code>, <code>C#</code> & <code>Blender</code>.</li>
+        <li><b>Agentic AI & RAG:</b> Multi-agent flows with <code>LangGraph</code>, <code>ChromaDB</code> & <code>FastAPI</code>.</li>
+        <li><b>Full-Stack Web:</b> Production apps via <code>React</code>, <code>TypeScript</code>, <code>Node.js</code> & <code>Express</code>.</li>
+        <li><b>Enterprise Systems:</b> 4-Layer design, <code>RBAC</code>, <code>HikariCP</code>, <code>BCrypt</code> & <code>JUnit 5</code>.</li>
+        <li><b>Spatial XR:</b> Haptic 3D simulation in <code>Unity</code>, <code>C#</code> & <code>Blender</code>.</li>
       </ul>
     </td>
   </tr>
@@ -73,7 +63,7 @@ status:      Open to SWE & AI Roles</pre>
       <p><sub><code>Unity 3D</code> · <code>C#</code> · <code>Blender</code> · <code>XR Haptics</code></sub></p>
       <p>Force-based haptic manual milling trainer and an interactive 3D Virtual Reality platform designed to visualize undergraduate mathematics.</p>
       <p>
-        <a href="https://github.com/harsh24239/vr-manual-milling-simulator"><kbd> MILLING XR ↗ </kbd></a>&nbsp;
+        <a href="https://github.com/harsh24239/vr-manual-milling-simulator"><kbd> MILLING XR ↗ </kbd></a>
         <a href="https://github.com/harsh24239/SpatialMath"><kbd> SPATIALMATH ↗ </kbd></a>
       </p>
     </td>
