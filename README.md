@@ -1,264 +1,202 @@
 <div align="center">
 
-  <!-- HERO / CODE IN THE SHADOWS -->
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,55:210B16,100:65142B&height=190&section=header&text=HARSH%20KUMAR%20%E5%BD%B1&fontSize=48&fontColor=F0F6FC&animation=fadeIn&fontAlignY=39&desc=CODE%20IN%20THE%20SHADOWS%20%7C%20SOFTWARE%20SYSTEMS%20%E2%80%A2%20AGENTIC%20AI%20%E2%80%A2%20SPATIAL%20XR&descAlignY=66&descSize=14" width="100%" alt="Harsh Kumar — Code in the Shadows" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,55:210B16,100:65142B&height=180&section=header&text=HARSH%20KUMAR%20%E5%BD%B1&fontSize=46&fontColor=F0F6FC&animation=fadeIn&fontAlignY=40&desc=SOFTWARE%20SYSTEMS%20%E2%80%A2%20AGENTIC%20AI%20%E2%80%A2%20SPATIAL%20XR&descAlignY=65&descSize=14" width="100%" alt="Harsh Kumar" />
 
   <a href="https://codeinshadows.vercel.app">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3200&pause=1300&color=FB7185&center=true&vCenter=true&width=760&height=40&lines=%3E+Architecting+stateful+AI+agents+%26+modular+backends.;%3E+Full-Stack+Systems+%2F%2F+Agentic+RAG+%2F%2F+Spatial+XR.;%3E+Precision+over+volume.+Always." alt="Animated developer introduction" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3200&pause=1300&color=FB7185&center=true&vCenter=true&width=760&height=38&lines=%3E+Full-Stack+Engineering+%2F%2F+Agentic+AI+%2F%2F+Spatial+XR;%3E+Precision+over+volume.+Always." alt="Typing SVG" />
   </a>
 
   <p>
-    <b>B.Tech CSE @ IIIT Delhi</b> &nbsp;·&nbsp; Systems &amp; AI Engineer<br/>
-    <sub><i>"Mastery is not speed. It is the elimination of wasted motion."</i></sub>
+    <a href="https://codeinshadows.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-9F1239?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" alt="Portfolio" /></a>
+    <a href="https://www.linkedin.com/in/harsh-kumar-837a9139b"><img src="https://img.shields.io/badge/LINKEDIN-20202A?style=for-the-badge&logo=linkedin&logoColor=FB7185&labelColor=0D1117" alt="LinkedIn" /></a>
+    <a href="https://leetcode.com/u/codezharsh/"><img src="https://img.shields.io/badge/LEETCODE-20202A?style=for-the-badge&logo=leetcode&logoColor=FB7185&labelColor=0D1117" alt="LeetCode" /></a>
+    <a href="mailto:harsh24239@iiitd.ac.in"><img src="https://img.shields.io/badge/EMAIL-20202A?style=for-the-badge&logo=gmail&logoColor=FB7185&labelColor=0D1117" alt="Email" /></a>
   </p>
-
-  <p>
-    <a href="https://codeinshadows.vercel.app"><img src="https://img.shields.io/badge/EXPLORE-PORTFOLIO-9F1239?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" alt="Portfolio" /></a>
-    <a href="https://www.linkedin.com/in/harsh-kumar-837a9139b"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-20202A?style=for-the-badge&logo=linkedin&logoColor=FB7185&labelColor=0D1117" alt="LinkedIn" /></a>
-    <a href="https://leetcode.com/u/codezharsh/"><img src="https://img.shields.io/badge/LEETCODE-PROFILE-20202A?style=for-the-badge&logo=leetcode&logoColor=FB7185&labelColor=0D1117" alt="LeetCode profile" /></a>
-    <a href="mailto:harsh24239@iiitd.ac.in"><img src="https://img.shields.io/badge/EMAIL-CONTACT-20202A?style=for-the-badge&logo=gmail&logoColor=FB7185&labelColor=0D1117" alt="Email" /></a>
-  </p>
-
-  <img src="https://img.shields.io/badge/FOCUS-AGENTIC_AI_%2B_DISTRIBUTED_WEB-4C0519?style=flat-square&labelColor=0D1117&color=9F1239" alt="Current focus" />
-  <img src="https://img.shields.io/badge/BASE-NEW_DELHI%2C_IN-20202A?style=flat-square&labelColor=0D1117" alt="New Delhi, India" />
-  <img src="https://img.shields.io/badge/STATUS-OPEN_TO_SWE_%26_AI_ROLES-20202A?style=flat-square&labelColor=0D1117" alt="Open to SWE and AI opportunities" />
 
 </div>
 
 ---
 
-### `01 // SYSTEM IDENTITY`
+### `01 // SYSTEM PROFILE`
 
 <table>
   <tr>
-    <td width="48%" valign="top">
-      <h4>▸ <code>IDENTITY.yaml</code></h4>
+    <td width="50%" valign="top">
 <pre lang="yaml">engineer:  Harsh Kumar (影)
-base:      IIIT Delhi (B.Tech CSE)
-domains:   [Full-Stack, Agentic AI, Spatial XR]
-pipeline:  Architect → Build → Benchmark → Ship
-state:     Active Development</pre>
+institute: IIIT Delhi (B.Tech CSE)
+location:  New Delhi, IN
+status:    Open to SWE & AI Roles</pre>
     </td>
-    <td width="52%" valign="top">
-      <h4>▸ <code>ENGINEERING DOCTRINE</code></h4>
-<pre lang="yaml">orchestration: Stateful Multi-Agent Workflows & RAG
-architecture:  Strict Layer Isolation & Clean Contracts
-performance:   Connection Pooling, Async I/O, Low Latency
-spatial_xr:    Physics-Driven Haptics & 3D Computation
-principle:     Zero unnecessary abstraction.</pre>
+    <td width="50%" valign="top">
+<pre lang="yaml">ai_systems:   LangGraph · Multi-Agent RAG · Vector DBs
+backend:      FastAPI · Node.js · RBAC · HikariCP
+spatial_xr:   Unity 3D · Haptic Physics · Shaders
+philosophy:   Strict boundaries. Zero bloat.</pre>
     </td>
   </tr>
 </table>
 
-<div align="center">
-  <sub><code>01 / DETERMINISTIC DESIGN</code> &nbsp; · &nbsp; <code>02 / MODULAR BOUNDARIES</code> &nbsp; · &nbsp; <code>03 / PRODUCTION RELIABILITY</code></sub>
-</div>
-
 ---
 
-### `02 // MISSION CONTROL — FLAGSHIP ARCHITECTURE`
+### `02 // SYSTEMS ARCHITECTURE`
 
-<div align="center">
-
-  <img src="https://img.shields.io/badge/SYS_001-FLAGSHIP_BUILD-9F1239?style=flat-square&labelColor=0D1117" alt="Flagship project" />
-  <img src="https://img.shields.io/badge/STATE-ACTIVE_DEVELOPMENT-20202A?style=flat-square&labelColor=0D1117" alt="Active development" />
-  <img src="https://img.shields.io/badge/ARCHITECTURE-MULTI--AGENT_RAG-20202A?style=flat-square&labelColor=0D1117" alt="Agentic AI and RAG" />
-
-  <h2>AI Placement Copilot</h2>
-  <p><b>Stateful multi-agent orchestration engine for technical interview simulation and grounded retrieval.</b></p>
-
-</div>
-
+<!-- TOP BENTO SPAN: FLAGSHIP -->
 <table>
   <tr>
-    <td width="58%" valign="top">
-      <h4>▸ <code>SYSTEM OVERVIEW</code></h4>
-      <p>Unifies fragmented interview preparation into a single deterministic pipeline—combining <b>LangGraph agent routing</b>, <b>ChromaDB vector retrieval</b>, and an async <b>FastAPI + React</b> execution layer.</p>
-      <ul>
-        <li><b>Supervisor Routing:</b> Dynamically dispatches queries between retrieval and mock-evaluation nodes.</li>
-        <li><b>Grounded Memory:</b> Eliminates hallucinations via strict vector-context injection.</li>
-      </ul>
+    <td width="60%" valign="top">
+      <img src="https://img.shields.io/badge/SYS_01-FLAGSHIP_ARCHITECTURE-9F1239?style=flat-square&labelColor=0D1117" alt="Flagship" />
+      <img src="https://img.shields.io/badge/MULTI--AGENT_RAG-20202A?style=flat-square&labelColor=0D1117" alt="RAG" />
+      <h3>AI Placement Copilot</h3>
+<pre lang="yaml">scope: Stateful interview simulation & grounded retrieval
+flow:  Query ➔ LangGraph Router ➔ [RAG | Eval] ➔ Gemini</pre>
       <p>
+        <img src="https://skillicons.dev/icons?i=py,fastapi,react,vite&theme=dark" height="24" alt="Stack" />
+        &nbsp;
         <a href="https://github.com/harsh24239/ai-placement-copilot">
-          <img src="https://img.shields.io/badge/SOURCE_CODE-EXPLORE_REPOSITORY-9F1239?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="View AI Placement Copilot code" />
+          <img src="https://img.shields.io/badge/SOURCE_CODE-9F1239?style=flat-square&logo=github&logoColor=white&labelColor=0D1117" height="24" alt="Repo" />
         </a>
       </p>
     </td>
-    <td width="42%" valign="top">
-      <h4>▸ <code>SPEC // 001</code></h4>
-<pre lang="yaml">TYPE:     Agentic AI / Full-Stack
-CLIENT:   React + Vite
-GATEWAY:  FastAPI (Async REST)
-AGENTS:   LangGraph State Graph
-MEMORY:   ChromaDB Vector Store
-INFERENCE:Gemini API</pre>
+    <td width="40%" valign="top">
+<pre lang="yaml">CLIENT:    React + Vite
+GATEWAY:   FastAPI (Async REST)
+AGENTS:    LangGraph State Graph
+MEMORY:    ChromaDB Vector Store
+INFERENCE: Gemini API
+ROUTING:   Deterministic</pre>
     </td>
   </tr>
 </table>
-
-<div align="center">
-  <p>
-    <img src="https://img.shields.io/badge/01-INGEST-20202A?style=flat-square&labelColor=4C0519" alt="Step 1 Ingest" />
-    &nbsp;→&nbsp;
-    <img src="https://img.shields.io/badge/02-ORCHESTRATE-20202A?style=flat-square&labelColor=4C0519" alt="Step 2 Orchestrate" />
-    &nbsp;→&nbsp;
-    <img src="https://img.shields.io/badge/03-RETRIEVE-20202A?style=flat-square&labelColor=4C0519" alt="Step 3 Retrieve" />
-    &nbsp;→&nbsp;
-    <img src="https://img.shields.io/badge/04-SYNTHESIZE-9F1239?style=flat-square&labelColor=0D1117" alt="Step 4 Synthesize" />
-  </p>
-</div>
-
-<details open>
-<summary><b>↳ SYSTEM BLUEPRINT — AGENT ROUTING &amp; RETRIEVAL TOPOLOGY</b></summary>
-
-<br/>
 
 ```mermaid
 flowchart LR
-    USER(["Client Request"]) --> WEB["React + Vite"]
-    WEB --> API["FastAPI Gateway"]
-    API --> SUP{"LangGraph Router"}
-    SUP -->|Context Path| RAG["Retrieval Node"]
-    SUP -->|Evaluation Path| INT["Interview Node"]
-    RAG <--> DB[("ChromaDB")]
-    RAG --> GEN["Gemini Inference"]
-    INT --> GEN
+    subgraph CLIENT ["CLIENT & GATEWAY"]
+        WEB["React + Vite"] --> API["FastAPI"]
+    end
+    subgraph ENGINE ["AGENTIC ORCHESTRATION"]
+        API --> SUP{"LangGraph Router"}
+        SUP -->|Context| RAG["RAG Node"]
+        SUP -->|Mock Eval| INT["Interview Node"]
+        RAG --> GEN["Gemini API"]
+        INT --> GEN
+    end
+    subgraph DATA ["VECTOR MEMORY"]
+        RAG <--> DB[("ChromaDB")]
+    end
     GEN --> API
-    API --> WEB
     classDef ruby fill:#4C0519,stroke:#FB7185,color:#F0F6FC,stroke-width:2px;
-    classDef graphite fill:#0D1117,stroke:#67707D,color:#F0F6FC;
+    classDef graphite fill:#0D1117,stroke:#30363D,color:#F0F6FC;
     class SUP,GEN ruby;
-    class USER,WEB,API,RAG,INT,DB graphite;
+    class WEB,API,RAG,INT,DB graphite;
+    style CLIENT fill:#0D1117,stroke:#30363D,color:#8B949E
+    style ENGINE fill:#0D1117,stroke:#9F1239,color:#FB7185
+    style DATA fill:#0D1117,stroke:#30363D,color:#8B949E
 ```
 
-</details>
-
----
-
-### `03 // PROJECT ATLAS — DEPLOYED SYSTEMS`
-
-#### `TRACK A // SPATIAL COMPUTING & HAPTIC SIMULATION`
-
+<!-- 2x2 BENTO GRID: CORE SYSTEMS -->
 <table>
   <tr>
     <td width="50%" valign="top">
-      <img src="https://img.shields.io/badge/XR_01-HAPTIC_SIMULATION-9F1239?style=flat-square&labelColor=0D1117" alt="XR Simulation" />
-      <h3>VR Manual Milling Simulator</h3>
-      <p>Physics-driven virtual machining trainer translating simulated cutting resistance into real-time controller haptic feedback.</p>
-      <p><sub><b>PIPELINE</b></sub><br/>
-      <code>Tool Kinematics → Force Calculation → Haptic Pulse</code></p>
-      <p><sub><code>Unity 3D</code> · <code>C#</code> · <code>XR Interaction Toolkit</code> · <code>Blender</code></sub></p>
-      <a href="https://github.com/harsh24239/vr-manual-milling-simulator">
-        <img src="https://img.shields.io/badge/VIEW_CODE-REPOSITORY-20202A?style=flat-square&logo=github&logoColor=FB7185&labelColor=0D1117" alt="VR milling source repository" />
-      </a>
+      <img src="https://img.shields.io/badge/SYS_02-HAPTIC_SIMULATION-9F1239?style=flat-square&labelColor=0D1117" alt="SYS_02" />
+      <h3>VR Manual Milling</h3>
+<pre lang="yaml">scope: Virtual machining & force feedback
+flow:  Kinematics ➔ Force Calc ➔ Haptics</pre>
+      <p>
+        <img src="https://skillicons.dev/icons?i=unity,cs,blender&theme=dark" height="22" alt="Stack" />
+        &nbsp;
+        <a href="https://github.com/harsh24239/vr-manual-milling-simulator">
+          <img src="https://img.shields.io/badge/REPO-20202A?style=flat-square&logo=github&logoColor=FB7185&labelColor=0D1117" height="22" alt="Repo" />
+        </a>
+      </p>
     </td>
     <td width="50%" valign="top">
-      <img src="https://img.shields.io/badge/XR_02-SPATIAL_COMPUTATION-20202A?style=flat-square&labelColor=0D1117" alt="XR Computation" />
+      <img src="https://img.shields.io/badge/SYS_03-SPATIAL_COMPUTING-20202A?style=flat-square&labelColor=0D1117" alt="SYS_03" />
       <h3>SpatialMath XR</h3>
-      <p>Interactive 3D computation environment mapping abstract multivariable calculus and linear algebra into manipulable spatial scenes.</p>
-      <p><sub><b>PIPELINE</b></sub><br/>
-      <code>Symbolic Function → Procedural Mesh → 3D Manipulation</code></p>
-      <p><sub><code>Unity 3D</code> · <code>C#</code> · <code>Computational Geometry</code> · <code>Shaders</code></sub></p>
-      <details>
-        <summary><b>↳ TECHNICAL SPECIFICATION</b></summary>
-        <p><sub>Renders parametric surfaces and vector fields dynamically in 3D space for real-time spatial inspection.</sub></p>
-      </details>
+<pre lang="yaml">scope: Interactive 3D multivariable math
+flow:  Function ➔ Procedural Mesh ➔ 3D Scene</pre>
+      <p>
+        <img src="https://skillicons.dev/icons?i=unity,cs&theme=dark" height="22" alt="Stack" />
+        &nbsp;
+        <img src="https://img.shields.io/badge/3D_SHADERS-0D1117?style=flat-square&color=20202A" height="22" alt="Shaders" />
+      </p>
     </td>
   </tr>
-</table>
-
-#### `TRACK B // SECURE PRODUCTS & LAYERED ARCHITECTURE`
-
-<table>
   <tr>
     <td width="50%" valign="top">
-      <img src="https://img.shields.io/badge/SYS_03-SECURITY_%26_AUDIT-9F1239?style=flat-square&labelColor=0D1117" alt="Full-stack application" />
+      <img src="https://img.shields.io/badge/SYS_04-SECURITY_%26_AUDIT-9F1239?style=flat-square&labelColor=0D1117" alt="SYS_04" />
       <h3>SQVS — Credential Verifier</h3>
-      <p>Role-gated qualification verification platform engineered for relational integrity, permission isolation, and immutable audit trails.</p>
-      <p><sub><b>PIPELINE</b></sub><br/>
-      <code>Identity Auth → RBAC Guard → Relational Verify → Audit Log</code></p>
-      <p><sub><code>React</code> · <code>Node.js</code> · <code>Express</code> · <code>MySQL</code> · <code>JWT</code></sub></p>
-      <details>
-        <summary><b>↳ ARCHITECTURAL FOCUS</b></summary>
-        <p><sub>Strict separation of privilege tiers with deterministic state logging across every verification event.</sub></p>
-      </details>
+<pre lang="yaml">scope: Role-gated qualification verification
+flow:  JWT ➔ RBAC Guard ➔ Verify ➔ Audit Log</pre>
+      <p>
+        <img src="https://skillicons.dev/icons?i=react,nodejs,express,mysql&theme=dark" height="22" alt="Stack" />
+        &nbsp;
+        <img src="https://img.shields.io/badge/RBAC_%2B_JWT-0D1117?style=flat-square&color=20202A" height="22" alt="RBAC" />
+      </p>
     </td>
     <td width="50%" valign="top">
-      <img src="https://img.shields.io/badge/SYS_04-4--LAYER_CORE-20202A?style=flat-square&labelColor=0D1117" alt="Layered desktop system" />
+      <img src="https://img.shields.io/badge/SYS_05-4--LAYER_ERP-20202A?style=flat-square&labelColor=0D1117" alt="SYS_05" />
       <h3>4-Layer University ERP</h3>
-      <p>Decoupled desktop ERP enforcing strict boundary isolation across presentation, service auth, DAO persistence, and pooled storage.</p>
-      <p><sub><b>PIPELINE</b></sub><br/>
-      <code>Swing UI → Service (RBAC/BCrypt) → DAO → HikariCP</code></p>
-      <p><sub><code>Java</code> · <code>Swing</code> · <code>JDBC</code> · <code>HikariCP</code> · <code>JUnit 5</code></sub></p>
-      <details>
-        <summary><b>↳ ARCHITECTURAL FOCUS</b></summary>
-        <p><sub>BCrypt hashing and role validation at the service boundary, backed by HikariCP connection pooling and JUnit 5 test suites.</sub></p>
-      </details>
+<pre lang="yaml">scope: Decoupled desktop academic ERP
+flow:  Swing ➔ Service (RBAC) ➔ DAO ➔ HikariCP</pre>
+      <p>
+        <img src="https://skillicons.dev/icons?i=java,mysql,git&theme=dark" height="22" alt="Stack" />
+        &nbsp;
+        <img src="https://img.shields.io/badge/HIKARICP_%2B_JUNIT5-0D1117?style=flat-square&color=20202A" height="22" alt="HikariCP" />
+      </p>
     </td>
   </tr>
 </table>
 
 <details>
 <summary><b>↳ INSPECT 4-LAYER ERP TOPOLOGY</b></summary>
-
 <br/>
 
 ```mermaid
 flowchart LR
-    UI["Swing UI"] --> SERVICE["Service / RBAC + BCrypt"]
-    SERVICE --> DAO["DAO / JDBC"]
-    DAO --> POOL["HikariCP Pool"]
+    UI["Swing UI"] --> SERVICE["Service (RBAC + BCrypt)"] --> DAO["DAO (JDBC)"] --> POOL["HikariCP"]
     POOL --> AUTH[("Auth DB")]
     POOL --> ERP[("Academic DB")]
     classDef ruby fill:#4C0519,stroke:#FB7185,color:#F0F6FC,stroke-width:2px;
-    classDef graphite fill:#0D1117,stroke:#67707D,color:#F0F6FC;
+    classDef graphite fill:#0D1117,stroke:#30363D,color:#F0F6FC;
     class SERVICE,POOL ruby;
     class UI,DAO,AUTH,ERP graphite;
 ```
-
 </details>
 
 ---
 
-### `04 // STACK & INFRASTRUCTURE`
+### `03 // INFRASTRUCTURE & TOOLING`
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,java,cpp,ts,js,cs,react,vite,nodejs,express,fastapi,mysql,unity,blender,git,linux&perline=8&theme=dark" alt="Technology icons" />
+  <img src="https://skillicons.dev/icons?i=py,java,cpp,ts,js,cs,react,vite,nodejs,express,fastapi,mysql,unity,blender,git,linux&perline=8&theme=dark" alt="Tech Stack" />
 </div>
 
 <br/>
 
-| Layer | Core Primitives & Tooling |
+| Domain | Core Primitives |
 | :--- | :--- |
 | **Languages** | `Python` · `Java` · `TypeScript` · `JavaScript` · `C/C++` · `C#` · `SQL` |
-| **Agentic AI & Data** | `LangGraph` · `Multi-Agent RAG` · `ChromaDB` · `Gemini API` · `MySQL` |
-| **Backend & Web** | `FastAPI` · `Node.js` · `Express` · `React` · `Vite` · `REST Architecture` |
-| **Systems & Security** | `RBAC` · `JWT` · `BCrypt` · `HikariCP` · `JDBC` · `JUnit 5` |
-| **Spatial & Tooling** | `Unity 3D` · `XR Toolkit` · `Blender` · `Linux` · `Git` · `Figma` |
+| **AI & Data** | `LangGraph` · `Multi-Agent RAG` · `ChromaDB` · `Gemini API` · `MySQL` |
+| **Backend & Auth** | `FastAPI` · `Node.js` · `Express` · `RBAC` · `JWT` · `BCrypt` · `HikariCP` · `JUnit 5` |
+| **Frontend & XR** | `React` · `Vite` · `Unity 3D` · `XR Toolkit` · `Blender` · `Linux` |
 
 ---
 
-### `05 // TELEMETRY`
+### `04 // TELEMETRY`
 
 <div align="center">
   <a href="https://github.com/harsh24239">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=harsh24239&theme=dark&background=0D1117&border=30363D&ring=9F1239&fire=FB7185&currStreakLabel=F0F6FC&sideLabels=8B949E&dates=8B949E" height="165" alt="GitHub contribution streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=harsh24239&theme=dark&background=0D1117&border=30363D&ring=9F1239&fire=FB7185&currStreakLabel=F0F6FC&sideLabels=8B949E&dates=8B949E" height="165" alt="GitHub Streak" />
   </a>
   <a href="https://github.com/harsh24239?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh24239&layout=compact&langs_count=6&bg_color=0D1117&title_color=FB7185&text_color=ABB4C0&border_color=30363D" height="165" alt="Most used repository languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh24239&layout=compact&langs_count=6&bg_color=0D1117&title_color=FB7185&text_color=ABB4C0&border_color=30363D" height="165" alt="Top Languages" />
   </a>
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harsh24239&bg_color=0D1117&color=8B949E&line=9F1239&point=FB7185&area=true&hide_border=true&custom_title=CONTRIBUTION%20TELEMETRY" width="98%" alt="Activity Graph" />
 </div>
 
----
-
 <div align="center">
-
-  <a href="mailto:harsh24239@iiitd.ac.in">
-    <img src="https://img.shields.io/badge/INITIATE_TRANSMISSION-HARSH24239%40IIITD.AC.IN-9F1239?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Contact Harsh Kumar" />
-  </a>
-
-  <p><sub><code>PRECISION OVER VOLUME</code> &nbsp;•&nbsp; <code>LEAVE NO TRACE</code> &nbsp;•&nbsp; <code>HARSH.DEV 影</code></sub></p>
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:65142B,55:210B16,100:0D1117&height=90&section=footer" width="100%" alt="Dark wine footer wave" />
-
+  <br/>
+  <p><sub><code>PRECISION OVER VOLUME</code> &nbsp;•&nbsp; <code>HARSH.DEV 影</code></sub></p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:65142B,55:210B16,100:0D1117&height=80&section=footer" width="100%" alt="Footer" />
 </div>
