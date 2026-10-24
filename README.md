@@ -3,19 +3,18 @@
   <!-- Ambient Obsidian-Wine Header (Warm, Low-Glare Crimson Glow) -->
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,65:180609,100:4C0519&height=155&section=header&text=HARSH%20KUMAR%20%E5%BD%B1&fontSize=46&fontColor=F0F6FC&animation=fadeIn&fontAlignY=42&desc=SOFTWARE%20SYSTEMS%20%E2%80%A2%20AGENTIC%20AI%20%E2%80%A2%20SPATIAL%20COMPUTING%20(XR)&descAlignY=68&descSize=13&stroke=30363D&strokeWidth=1" width="100%" alt="Harsh Kumar Header" />
 
-  <!-- Native Zero-Fail Sub-Header (Never Shows a Broken Image Icon) -->
+  <!-- Balanced 2-Line Sub-Header (Zero Orphan Word Wrapping) -->
   <p>
-    <code><b>B.Tech CSE @ IIIT Delhi</b></code> &nbsp;•&nbsp;
-    <code><b>Full-Stack & Agentic AI Engineer</b></code> &nbsp;•&nbsp;
-    <i>"Mastery is the elimination of wasted motion."</i>
+    <code><b>B.Tech CSE @ IIIT Delhi</b></code> &nbsp;•&nbsp; <code><b>Full-Stack & Agentic AI Engineer</b></code><br/>
+    <sub><i>"Mastery is not speed. It is the elimination of wasted motion."</i></sub>
   </p>
 
-  <!-- Single-Line Command Bar (Warm Rose-Crimson Primary CTA + Obsidian Secondary Channels) -->
+  <!-- Single-Line Command Bar (All Icons & Live Links Restored) -->
   <p>
     <a href="https://codeinshadows.vercel.app"><img src="https://img.shields.io/badge/HARSH.DEV-PORTFOLIO-9F1239?style=flat-square&logo=vercel&logoColor=white&labelColor=0D1117" alt="Portfolio" /></a>
-    <a href="https://www.linkedin.com/in/harsh-kumar-837a9139b"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-161B22?style=flat-square&logo=none&labelColor=0D1117&color=161B22" alt="LinkedIn" /></a>
-    <a href="https://leetcode.com/u/codezharsh"><img src="https://img.shields.io/badge/LEETCODE-130%2B_DSA-161B22?style=flat-square&logo=leetcode&logoColor=F43F5E&labelColor=0D1117" alt="LeetCode" /></a>
-    <a href="mailto:kumarharsh1851@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT-161B22?style=flat-square&logo=gmail&logoColor=F43F5E&labelColor=0D1117" alt="Email" /></a>
+    <a href="https://linkedin.com/in/harsh-kumar-837a9139b"><img src="https://img.shields.io/badge/IN-LINKEDIN_CONNECT-161B22?style=flat-square&labelColor=0D1117&color=161B22" alt="LinkedIn" /></a>
+    <a href="https://leetcode.com/u/codezharsh/"><img src="https://img.shields.io/badge/LEETCODE-130%2B_DSA-161B22?style=flat-square&logo=leetcode&logoColor=F43F5E&labelColor=0D1117" alt="LeetCode" /></a>
+    <a href="mailto:harsh24239@iiitd.ac.in"><img src="https://img.shields.io/badge/EMAIL-CONTACT-161B22?style=flat-square&logo=gmail&logoColor=F43F5E&labelColor=0D1117" alt="Email" /></a>
   </p>
 
 </div>
@@ -75,13 +74,13 @@ clearance: Open to SWE & AI Roles</pre>
       <h4>⚪ SQVS — Credential Verifier &nbsp;<sub><code>SHIPPED</code></sub></h4>
       <p><sub><code>React.js</code> · <code>Node.js</code> · <code>Express</code> · <code>MySQL</code></sub></p>
       <p>Student Qualification Verification System engineered around strict Role-Based Access Control (RBAC), normalized relational schemas, and audit logs.</p>
-      <p><a href="https://codeinshadows.vercel.app/#projects"><kbd> CASE STUDY ↗ </kbd></a></p>
+      <p><a href="https://codeinshadows.vercel.app"><kbd> CASE STUDY ↗ </kbd></a></p>
     </td>
     <td width="50%" valign="top">
       <h4>⚪ 4-Layer University ERP &nbsp;<sub><code>SHIPPED</code></sub></h4>
       <p><sub><code>Java Swing</code> · <code>JDBC</code> · <code>HikariCP</code> · <code>JUnit 5</code></sub></p>
       <p>Modular desktop ERP isolating authentication (<code>university_auth</code>) and academic operations across a strict <code>UI → Service → DAO → DB</code> architecture.</p>
-      <p><a href="https://codeinshadows.vercel.app/#projects"><kbd> ARCHITECTURE ↗ </kbd></a></p>
+      <p><a href="https://codeinshadows.vercel.app"><kbd> ARCHITECTURE ↗ </kbd></a></p>
     </td>
   </tr>
 </table>
@@ -90,6 +89,7 @@ clearance: Open to SWE & AI Roles</pre>
 <summary><b><code>+ INSPECT SYSTEM ARCHITECTURE BLUEPRINTS (MERMAID.JS)</code></b></summary>
 <br/>
 
+#### `A. AI Placement Copilot — Multi-Agent LangGraph Pipeline`
 ```mermaid
 flowchart LR
     UI["React + Vite Client"] -->|REST JSON| API["FastAPI Gateway"]
@@ -103,6 +103,18 @@ flowchart LR
     style SUP fill:#881337,stroke:#F0F6FC,color:#FFFFFF
     style API fill:#0D1117,stroke:#30363D,color:#F0F6FC
     style VDB fill:#0D1117,stroke:#F43F5E,color:#F0F6FC
+```
+
+#### `B. University ERP — 4-Layer Enterprise Security Flow`
+```mermaid
+flowchart LR
+    SW["1. Java Swing UI"] --> SRV["2. Service Layer (RBAC + BCrypt)"]
+    SRV --> DAO["3. DAO Layer (JDBC Contracts)"]
+    DAO --> POOL["HikariCP Connection Pool"]
+    POOL --> AUTH[("MySQL: university_auth")]
+    POOL --> ERP[("MySQL: university_erp")]
+    style SRV fill:#881337,stroke:#F0F6FC,color:#FFFFFF
+    style POOL fill:#0D1117,stroke:#F43F5E,color:#F0F6FC
 ```
 </details>
 
