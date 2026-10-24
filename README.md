@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
 
   <!-- HERO / CODE IN THE SHADOWS -->
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,55:210B16,100:65142B&height=190&section=header&text=HARSH%20KUMAR%20%E5%BD%B1&fontSize=48&fontColor=F0F6FC&animation=fadeIn&fontAlignY=39&desc=CODE%20IN%20THE%20SHADOWS%20%7C%20SOFTWARE%20SYSTEMS%20%E2%80%A2%20AGENTIC%20AI%20%E2%80%A2%20XR&descAlignY=66&descSize=16" width="100%" alt="Harsh Kumar — Code in the Shadows" />
@@ -9,7 +9,7 @@
 
   <p>
     <b>B.Tech CSE @ IIIT Delhi</b> &nbsp;·&nbsp; Full-Stack &amp; AI Systems Builder<br/>
-    <sub><i>"Mastery is not speed. It is the elimination of wasted motion."</i></sub>
+    <i>"Mastery is not speed. It is the elimination of wasted motion."</i>
   </p>
 
   <p>
@@ -35,17 +35,17 @@
   <tr>
     <td width="333" valign="top">
       <sub><code>01 // ARCHITECTURE</code></sub>
-      <p><b>Full-Stack Systems</b></p>
+      <h3>Full-Stack Systems</h3>
       <p>Modular backends, role-gated security, connection pooling, and clean API contracts built for production.</p>
     </td>
     <td width="333" valign="top">
       <sub><code>02 // INTELLIGENCE</code></sub>
-      <p><b>Agentic AI &amp; RAG</b></p>
+      <h3>Agentic AI &amp; RAG</h3>
       <p>Stateful multi-agent orchestration, vector memory retrieval, and context-grounded model workflows.</p>
     </td>
     <td width="334" valign="top">
       <sub><code>03 // INTERACTION</code></sub>
-      <p><b>Spatial XR &amp; Craft</b></p>
+      <h3>Spatial XR &amp; Craft</h3>
       <p>Immersive 3D visualization, physics-driven haptics, and high-precision interfaces with zero visual clutter.</p>
     </td>
   </tr>
@@ -65,10 +65,8 @@
           <img src="https://img.shields.io/badge/SOURCE_CODE-GITHUB_%E2%86%97-4C0519?style=flat-square&logo=github&logoColor=FB7185" alt="Repo" />
         </a>
       </p>
-      <p>
-        <b>AI Placement Copilot</b><br/>
-        Stateful multi-agent interview and preparation platform unifying practice workflows, grounded vector retrieval, and real-time evaluation.
-      </p>
+      <h3>AI Placement Copilot</h3>
+      <p>Stateful multi-agent interview and preparation platform unifying practice workflows, grounded vector retrieval, and real-time evaluation.</p>
       <p>
         <kbd>React + Vite</kbd> &nbsp;➔&nbsp; <kbd>FastAPI</kbd> &nbsp;➔&nbsp; <kbd>LangGraph Router</kbd> &nbsp;➔&nbsp; <kbd>ChromaDB</kbd> &nbsp;➔&nbsp; <kbd>Gemini API</kbd>
       </p>
@@ -85,10 +83,8 @@
           <img src="https://img.shields.io/badge/GITHUB_%E2%86%97-20202A?style=flat-square&logo=github&logoColor=FB7185" alt="Repo" />
         </a>
       </p>
-      <p>
-        <b>VR Manual Milling</b><br/>
-        Physics-driven virtual machining trainer mapping simulated cutting force to real-time controller haptics.
-      </p>
+      <h3>VR Manual Milling</h3>
+      <p>Physics-driven virtual machining trainer mapping simulated cutting force to real-time controller haptics.</p>
       <p>
         <kbd>Unity 3D</kbd>&nbsp; <kbd>C#</kbd>&nbsp; <kbd>XR Toolkit</kbd>&nbsp; <kbd>Blender</kbd>
       </p>
@@ -97,10 +93,8 @@
       <p>
         <img src="https://img.shields.io/badge/03-SPATIAL_COMPUTING-20202A?style=flat-square&labelColor=0D1117" alt="03" />
       </p>
-      <p>
-        <b>SpatialMath XR</b><br/>
-        Interactive 3D computation environment translating abstract multivariable math into manipulable spatial scenes.
-      </p>
+      <h3>SpatialMath XR</h3>
+      <p>Interactive 3D computation environment translating abstract multivariable math into manipulable spatial scenes.</p>
       <p>
         <kbd>Unity 3D</kbd>&nbsp; <kbd>C#</kbd>&nbsp; <kbd>3D Visualization</kbd>&nbsp; <kbd>Shaders</kbd>
       </p>
@@ -111,10 +105,8 @@
       <p>
         <img src="https://img.shields.io/badge/04-SECURITY_%26_AUDIT-9F1239?style=flat-square&labelColor=0D1117" alt="04" />
       </p>
-      <p>
-        <b>SQVS — Credential Verifier</b><br/>
-        Role-gated qualification verification system built around strict user permissions, relational records, and audit trails.
-      </p>
+      <h3>SQVS — Credential Verifier</h3>
+      <p>Role-gated qualification verification system built around strict user permissions, relational records, and audit trails.</p>
       <p>
         <kbd>React</kbd>&nbsp; <kbd>Node.js</kbd>&nbsp; <kbd>Express</kbd>&nbsp; <kbd>MySQL</kbd>&nbsp; <kbd>RBAC</kbd>
       </p>
@@ -123,10 +115,8 @@
       <p>
         <img src="https://img.shields.io/badge/05-LAYERED_ARCHITECTURE-20202A?style=flat-square&labelColor=0D1117" alt="05" />
       </p>
-      <p>
-        <b>4-Layer University ERP</b><br/>
-        Decoupled desktop ERP isolating presentation, BCrypt/RBAC service logic, DAO persistence, and pooled storage.
-      </p>
+      <h3>4-Layer University ERP</h3>
+      <p>Decoupled desktop ERP isolating presentation, BCrypt/RBAC service logic, DAO persistence, and pooled storage.</p>
       <p>
         <kbd>Java Swing</kbd>&nbsp; <kbd>JDBC</kbd>&nbsp; <kbd>HikariCP</kbd>&nbsp; <kbd>BCrypt</kbd>&nbsp; <kbd>JUnit 5</kbd>
       </p>
