@@ -1,3 +1,4 @@
+
 <div align="center">
 
   <!-- HERO / CODE IN THE SHADOWS -->
@@ -54,98 +55,173 @@ status:   Learning & shipping</pre>
 
 ---
 
-### `02 // FEATURED BUILD`
+### `02 // MISSION CONTROL — FEATURED SYSTEM`
+
+<div align="center">
+
+  <img src="https://img.shields.io/badge/PROJECT_001-FLAGSHIP_BUILD-9F1239?style=flat-square&labelColor=0D1117" alt="Flagship project" />
+  <img src="https://img.shields.io/badge/PHASE-ACTIVE_DEVELOPMENT-20202A?style=flat-square&labelColor=0D1117" alt="Active development" />
+  <img src="https://img.shields.io/badge/DOMAIN-AGENTIC_AI_%2F_RAG-20202A?style=flat-square&labelColor=0D1117" alt="Agentic AI and RAG" />
+
+  <h2>AI Placement Copilot</h2>
+  <p><b>A multi-agent approach to preparing for technical interviews.</b><br/><sub>From a student's question to structured, context-grounded practice.</sub></p>
+
+</div>
 
 <table>
   <tr>
-    <td valign="top">
-      <img src="https://img.shields.io/badge/01-FEATURED_SYSTEM-9F1239?style=flat-square&labelColor=0D1117" alt="Featured system" />
-      <img src="https://img.shields.io/badge/STATUS-ACTIVE_BUILD-20202A?style=flat-square&labelColor=0D1117" alt="Active build" />
-      <h3>AI Placement Copilot <sub>↗ Agentic AI / RAG</sub></h3>
-      <p>A placement-preparation platform built around <b>multi-agent orchestration, context-grounded retrieval, and a full-stack user experience</b>.</p>
-      <p><b>Inside the system:</b> LangGraph coordinates agent workflows, ChromaDB supports semantic retrieval, and FastAPI connects the AI layer to a React interface.</p>
-      <p>
-        <code>Python</code> <code>FastAPI</code> <code>LangGraph</code> <code>ChromaDB</code> <code>React</code> <code>Gemini API</code>
-      </p>
-      <a href="https://github.com/harsh24239/ai-placement-copilot"><img src="https://img.shields.io/badge/EXPLORE_THE_CODE-OPEN_REPOSITORY-9F1239?style=flat-square&logo=github&logoColor=white&labelColor=0D1117" alt="Open AI Placement Copilot repository" /></a>
+    <td width="58%" valign="top">
+      <h4><code>THE IDEA</code></h4>
+      <p>Placement preparation is scattered across practice questions, interview feedback, and study resources. <b>AI Placement Copilot</b> brings these workflows into one AI-assisted experience.</p>
+      <p>I'm building it around <b>LangGraph orchestration</b>, <b>ChromaDB retrieval</b>, and a <b>FastAPI + React</b> application layer, with Gemini for model-driven responses.</p>
+      <p><a href="https://github.com/harsh24239/ai-placement-copilot"><img src="https://img.shields.io/badge/OPEN_SOURCE-EXPLORE_REPOSITORY-9F1239?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="View AI Placement Copilot code" /></a></p>
+    </td>
+    <td width="42%" valign="top">
+      <h4><code>SYSTEM PROFILE / 001</code></h4>
+      <pre>TYPE      AI / FULL-STACK
+STATUS    IN DEVELOPMENT
+CLIENT    REACT + VITE
+GATEWAY   FASTAPI
+AGENTS    LANGGRAPH
+MEMORY    CHROMADB
+MODEL     GEMINI</pre>
+      <p><sub>Focus: orchestration, grounded retrieval, clear interfaces, and a modular backend.</sub></p>
     </td>
   </tr>
 </table>
 
-### `03 // MORE SYSTEMS IN THE LAB`
+<div align="center">
+  <sub><b>THE WORKFLOW AT A GLANCE</b></sub>
+  <p>
+    <img src="https://img.shields.io/badge/01-ASK-20202A?style=flat-square&labelColor=4C0519" alt="Step 1 Ask" />
+    &nbsp;→&nbsp;
+    <img src="https://img.shields.io/badge/02-ORCHESTRATE-20202A?style=flat-square&labelColor=4C0519" alt="Step 2 Orchestrate" />
+    &nbsp;→&nbsp;
+    <img src="https://img.shields.io/badge/03-RETRIEVE-20202A?style=flat-square&labelColor=4C0519" alt="Step 3 Retrieve" />
+    &nbsp;→&nbsp;
+    <img src="https://img.shields.io/badge/04-RESPOND-9F1239?style=flat-square&labelColor=0D1117" alt="Step 4 Respond" />
+  </p>
+</div>
+
+<details>
+<summary><b>↳ EXPLORE THE ENGINEERING BLUEPRINT — AGENTS, RETRIEVAL & DELIVERY</b></summary>
+
+<br/>
+
+> Conceptual architecture of the project; individual features are under active development.
+
+```mermaid
+flowchart LR
+    USER(["Student request"]) --> WEB["React + Vite"]
+    WEB --> API["FastAPI"]
+    API --> SUP{"LangGraph"}
+    SUP --> RAG["Retrieval path"]
+    SUP --> INT["Interview path"]
+    RAG <--> DB[("ChromaDB")]
+    RAG --> GEN["Gemini"]
+    INT --> GEN
+    GEN --> API
+    API --> WEB
+    classDef ruby fill:#4C0519,stroke:#FB7185,color:#F0F6FC,stroke-width:2px;
+    classDef graphite fill:#0D1117,stroke:#67707D,color:#F0F6FC;
+    class SUP,GEN ruby;
+    class USER,WEB,API,RAG,INT,DB graphite;
+```
+
+**Design lens:** Separate routing, retrieval, and response generation so each part can be understood, tested, and improved independently.
+
+</details>
+
+---
+
+### `03 // PROJECT ATLAS — SELECT A DOMAIN`
+
+<div align="center">
+
+  <img src="https://img.shields.io/badge/4_PROJECTS-2_ENGINEERING_TRACKS-9F1239?style=flat-square&labelColor=0D1117" alt="Four projects in two engineering tracks" />
+  <p><sub>Different mediums. Same mindset: understand the problem, design the system, build the experience.</sub></p>
+
+</div>
+
+#### `TRACK A // SPATIAL COMPUTING & HUMAN INTERACTION`
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <img src="https://img.shields.io/badge/02-SPATIAL_XR-20202A?style=flat-square&labelColor=0D1117" alt="Spatial XR" />
-      <h4>VR Manual Milling Simulator</h4>
-      <p>Research-aligned VR milling trainer exploring physical interaction and force-based haptic feedback in a simulated environment.</p>
-      <p><code>Unity</code> <code>C#</code> <code>Blender</code> <code>Haptics</code></p>
-      <a href="https://github.com/harsh24239/vr-manual-milling-simulator"><b>REPOSITORY ↗</b></a>
+      <img src="https://img.shields.io/badge/XR_01-RESEARCH_PROTOTYPE-9F1239?style=flat-square&labelColor=0D1117" alt="XR research prototype" />
+      <h3>VR Manual Milling</h3>
+      <p><b>Teaching physical processes in virtual space.</b></p>
+      <p>A VR milling trainer prototype that connects simulated machining interactions to controller haptic feedback.</p>
+      <p><sub><b>INTERACTION LOOP</b></sub><br/>
+      <code>Handle → Cutting force → Haptics</code></p>
+      <p><sub><code>Unity</code> · <code>C#</code> · <code>Blender</code> · <code>XR Toolkit</code></sub></p>
+      <a href="https://github.com/harsh24239/vr-manual-milling-simulator"><img src="https://img.shields.io/badge/VIEW_CODE-REPOSITORY-20202A?style=flat-square&logo=github&logoColor=FB7185&labelColor=0D1117" alt="VR milling source repository" /></a>
     </td>
     <td width="50%" valign="top">
-      <img src="https://img.shields.io/badge/03-EDUCATION_%2B_XR-20202A?style=flat-square&labelColor=0D1117" alt="Education and XR" />
-      <h4>SpatialMath XR</h4>
-      <p>An interactive 3D learning concept for exploring undergraduate mathematics through spatial visualization.</p>
-      <p><code>Unity 3D</code> <code>C#</code> <code>3D Visualization</code></p>
-      <a href="https://codeinshadows.vercel.app/#projects"><b>VIEW ON PORTFOLIO ↗</b></a>
+      <img src="https://img.shields.io/badge/XR_02-LEARNING_EXPERIENCE-20202A?style=flat-square&labelColor=0D1117" alt="XR learning experience" />
+      <h3>SpatialMath XR</h3>
+      <p><b>Making abstract mathematics spatial.</b></p>
+      <p>An immersive 3D approach to exploring undergraduate mathematical concepts through interaction and visualization.</p>
+      <p><sub><b>EXPERIENCE LOOP</b></sub><br/>
+      <code>Concept → 3D model → Explore</code></p>
+      <p><sub><code>Unity 3D</code> · <code>C#</code> · <code>Visualization</code></sub></p>
+      <details>
+        <summary><b>↳ OPEN PROJECT BRIEF</b></summary>
+        <p>Focus: representing mathematical ideas as interactive 3D scenes, so spatial relationships can be explored rather than only imagined.</p>
+      </details>
     </td>
   </tr>
+</table>
+
+#### `TRACK B // SECURE PRODUCTS & SYSTEM ARCHITECTURE`
+
+<table>
   <tr>
     <td width="50%" valign="top">
-      <img src="https://img.shields.io/badge/04-FULL_STACK-20202A?style=flat-square&labelColor=0D1117" alt="Full-stack system" />
-      <h4>SQVS — Credential Verifier</h4>
-      <p>Student qualification verification platform organized around role-based access control, relational data modeling, and audit logging.</p>
-      <p><code>React</code> <code>Node.js</code> <code>Express</code> <code>MySQL</code></p>
-      <a href="https://codeinshadows.vercel.app/#projects"><b>PROJECT DETAILS ↗</b></a>
+      <img src="https://img.shields.io/badge/SYS_03-FULL_STACK_APPLICATION-9F1239?style=flat-square&labelColor=0D1117" alt="Full-stack application" />
+      <h3>SQVS — Credential Verifier</h3>
+      <p><b>Trust depends on more than storing records.</b></p>
+      <p>A student qualification verification system designed around user permissions, relational records, and traceable activity.</p>
+      <p><sub><b>VERIFICATION FLOW</b></sub><br/>
+      <code>Identity → RBAC → Verify → Audit</code></p>
+      <p><sub><code>React</code> · <code>Node.js</code> · <code>Express</code> · <code>MySQL</code></sub></p>
+      <details>
+        <summary><b>↳ EXPLORE DESIGN DECISIONS</b></summary>
+        <p><b>Key concerns:</b> separating user roles, keeping qualification data structured, and retaining an audit trail of actions.</p>
+      </details>
     </td>
     <td width="50%" valign="top">
-      <img src="https://img.shields.io/badge/05-SYSTEM_DESIGN-20202A?style=flat-square&labelColor=0D1117" alt="System design" />
-      <h4>4-Layer University ERP</h4>
-      <p>Desktop ERP separating user interface, business logic, data access, and storage, with distinct authentication and academic workflows.</p>
-      <p><code>Java Swing</code> <code>JDBC</code> <code>HikariCP</code> <code>JUnit 5</code></p>
-      <a href="https://codeinshadows.vercel.app/#projects"><b>ARCHITECTURE DETAILS ↗</b></a>
+      <img src="https://img.shields.io/badge/SYS_04-LAYERED_DESKTOP_SYSTEM-20202A?style=flat-square&labelColor=0D1117" alt="Layered desktop system" />
+      <h3>4-Layer University ERP</h3>
+      <p><b>A desktop app with boundaries that matter.</b></p>
+      <p>An academic ERP organized to keep the interface, business logic, database access, and persistence separate.</p>
+      <p><sub><b>ARCHITECTURE FLOW</b></sub><br/>
+      <code>UI → Service → DAO → Database</code></p>
+      <p><sub><code>Java Swing</code> · <code>JDBC</code> · <code>HikariCP</code> · <code>JUnit 5</code></sub></p>
+      <details>
+        <summary><b>↳ VIEW 4-LAYER BLUEPRINT</b></summary>
+        <p><b>Security &amp; structure:</b> RBAC and BCrypt at the service boundary; JDBC/DAO for data access; HikariCP for connection pooling; JUnit 5 for testing.</p>
+      </details>
     </td>
   </tr>
 </table>
 
 <details>
-<summary><b>▸ OPEN THE BLUEPRINTS — TWO SYSTEM ARCHITECTURES</b></summary>
+<summary><b>↳ BONUS BLUEPRINT — HOW THE UNIVERSITY ERP IS LAYERED</b></summary>
 
 <br/>
 
-**A / AI Placement Copilot · conceptual workflow**
-
 ```mermaid
 flowchart LR
-    UI["React Client"] --> API["FastAPI Gateway"]
-    API --> SUP{"LangGraph Supervisor"}
-    SUP --> RET["Retrieval / RAG"]
-    SUP --> INT["Interview Agent"]
-    RET <--> DB[("ChromaDB")]
-    RET --> LLM["Gemini API"]
-    INT --> LLM
-    LLM --> RES["API Response"]
-    RES --> UI
-    classDef accent fill:#4C0519,stroke:#FB7185,color:#F0F6FC;
-    classDef base fill:#0D1117,stroke:#6B7280,color:#F0F6FC;
-    class SUP,LLM accent;
-    class UI,API,RET,INT,DB,RES base;
-```
-
-**B / University ERP · layered architecture**
-
-```mermaid
-flowchart LR
-    UI["1 / Java Swing UI"] --> SERVICE["2 / Service + RBAC"]
-    SERVICE --> DAO["3 / DAO + JDBC"]
-    DAO --> POOL["HikariCP Pool"]
-    POOL --> AUTH[("Authentication DB")]
+    UI["Swing UI"] --> SERVICE["Service / RBAC"]
+    SERVICE --> DAO["DAO / JDBC"]
+    DAO --> POOL["HikariCP"]
+    POOL --> AUTH[("Auth DB")]
     POOL --> ERP[("Academic DB")]
-    classDef accent fill:#4C0519,stroke:#FB7185,color:#F0F6FC;
-    classDef base fill:#0D1117,stroke:#6B7280,color:#F0F6FC;
-    class SERVICE,POOL accent;
-    class UI,DAO,AUTH,ERP base;
+    classDef ruby fill:#4C0519,stroke:#FB7185,color:#F0F6FC,stroke-width:2px;
+    classDef graphite fill:#0D1117,stroke:#67707D,color:#F0F6FC;
+    class SERVICE,POOL ruby;
+    class UI,DAO,AUTH,ERP graphite;
 ```
 
 </details>
