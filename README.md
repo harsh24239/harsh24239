@@ -1,19 +1,21 @@
 <div align="center">
 
-  <!-- Calm Architectural Midnight-Indigo Header (Linear / Raycast Aesthetic) -->
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,55:111827,100:312E81&height=155&section=header&text=HARSH%20KUMAR%20%E5%BD%B1&fontSize=46&fontColor=F8FAFC&animation=fadeIn&fontAlignY=42&desc=SOFTWARE%20SYSTEMS%20%E2%80%A2%20AGENTIC%20AI%20%E2%80%A2%20SPATIAL%20COMPUTING%20(XR)&descAlignY=68&descSize=13&stroke=30363D&strokeWidth=1" width="100%" alt="Harsh Kumar Header" />
+  <!-- Ambient Obsidian-Wine Header (Warm, Low-Glare Crimson Glow) -->
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,65:180609,100:4C0519&height=155&section=header&text=HARSH%20KUMAR%20%E5%BD%B1&fontSize=46&fontColor=F0F6FC&animation=fadeIn&fontAlignY=42&desc=SOFTWARE%20SYSTEMS%20%E2%80%A2%20AGENTIC%20AI%20%E2%80%A2%20SPATIAL%20COMPUTING%20(XR)&descAlignY=68&descSize=13&stroke=30363D&strokeWidth=1" width="100%" alt="Harsh Kumar Header" />
 
-  <!-- Soft Ice-Indigo Terminal Typing Animation -->
-  <a href="https://codeinshadows.vercel.app">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3200&pause=1400&color=818CF8&center=true&vCenter=true&width=720&height=34&lines=%3E+B.Tech+CSE+@+IIIT+Delhi+%E2%80%94+Full-Stack+%26+AI+Engineer;%3E+Architecting+Multi-Agent+RAG,+Web+Systems+%26+XR;%3E+%22Mastery+is+the+elimination+of+wasted+motion.%22" alt="Terminal Typing Animation" />
-  </a>
-
-  <!-- Single-Line Command Bar (Indigo Primary CTA + Obsidian Secondary Channels) -->
+  <!-- Native Zero-Fail Sub-Header (Never Shows a Broken Image Icon) -->
   <p>
-    <a href="https://codeinshadows.vercel.app"><img src="https://img.shields.io/badge/HARSH.DEV-PORTFOLIO-6366F1?style=flat-square&logo=vercel&logoColor=white&labelColor=0D1117" alt="Portfolio" /></a>
-    <a href="https://linkedin.com/in/harsh-kumar-837a9139b"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-161B22?style=flat-square&logo=linkedin&logoColor=818CF8&labelColor=0D1117" alt="LinkedIn" /></a>
-    <a href="https://leetcode.com/u/codezharsh/"><img src="https://img.shields.io/badge/LEETCODE-130%2B_DSA-161B22?style=flat-square&logo=leetcode&logoColor=818CF8&labelColor=0D1117" alt="LeetCode" /></a>
-    <a href="mailto:harsh24239@iiitd.ac.in"><img src="https://img.shields.io/badge/EMAIL-CONTACT-161B22?style=flat-square&logo=gmail&logoColor=818CF8&labelColor=0D1117" alt="Email" /></a>
+    <code><b>B.Tech CSE @ IIIT Delhi</b></code> &nbsp;•&nbsp;
+    <code><b>Full-Stack & Agentic AI Engineer</b></code> &nbsp;•&nbsp;
+    <i>"Mastery is the elimination of wasted motion."</i>
+  </p>
+
+  <!-- Single-Line Command Bar (Warm Rose-Crimson Primary CTA + Obsidian Secondary Channels) -->
+  <p>
+    <a href="https://codeinshadows.vercel.app"><img src="https://img.shields.io/badge/HARSH.DEV-PORTFOLIO-9F1239?style=flat-square&logo=vercel&logoColor=white&labelColor=0D1117" alt="Portfolio" /></a>
+    <a href="https://www.linkedin.com/in/harsh-kumar-837a9139b"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-161B22?style=flat-square&logo=none&labelColor=0D1117&color=161B22" alt="LinkedIn" /></a>
+    <a href="https://leetcode.com/u/codezharsh"><img src="https://img.shields.io/badge/LEETCODE-130%2B_DSA-161B22?style=flat-square&logo=leetcode&logoColor=F43F5E&labelColor=0D1117" alt="LeetCode" /></a>
+    <a href="mailto:kumarharsh1851@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT-161B22?style=flat-square&logo=gmail&logoColor=F43F5E&labelColor=0D1117" alt="Email" /></a>
   </p>
 
 </div>
@@ -53,13 +55,13 @@ clearance: Open to SWE & AI Roles</pre>
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🔹 AI Placement Copilot &nbsp;<sub><code>ACTIVE</code></sub></h4>
+      <h4>🔴 AI Placement Copilot &nbsp;<sub><code>ACTIVE</code></sub></h4>
       <p><sub><code>FastAPI</code> · <code>LangGraph</code> · <code>ChromaDB</code> · <code>React</code></sub></p>
       <p>Grounded placement preparation engine utilizing multi-agent LangGraph orchestration, semantic vector retrieval, and a low-latency FastAPI gateway.</p>
       <p><a href="https://github.com/harsh24239/ai-placement-copilot"><kbd> VIEW REPOSITORY ↗ </kbd></a></p>
     </td>
     <td width="50%" valign="top">
-      <h4>🔹 VR Milling & SpatialMath XR &nbsp;<sub><code>RESEARCH</code></sub></h4>
+      <h4>⚪ VR Milling & SpatialMath XR &nbsp;<sub><code>RESEARCH</code></sub></h4>
       <p><sub><code>Unity 3D</code> · <code>C#</code> · <code>Blender</code> · <code>XR Haptics</code></sub></p>
       <p>Force-based haptic manual milling trainer and an interactive 3D Virtual Reality platform designed to visualize undergraduate mathematics.</p>
       <p>
@@ -98,9 +100,9 @@ flowchart LR
     RAG --> LLM["Gemini API"]
     INT --> LLM
     LLM --> UI
-    style SUP fill:#4F46E5,stroke:#F8FAFC,color:#FFFFFF
-    style API fill:#0D1117,stroke:#30363D,color:#F8FAFC
-    style VDB fill:#0D1117,stroke:#818CF8,color:#F8FAFC
+    style SUP fill:#881337,stroke:#F0F6FC,color:#FFFFFF
+    style API fill:#0D1117,stroke:#30363D,color:#F0F6FC
+    style VDB fill:#0D1117,stroke:#F43F5E,color:#F0F6FC
 ```
 </details>
 
@@ -112,10 +114,10 @@ flowchart LR
 
 | Domain | Technologies |
 | :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/Python-161B22?style=flat-square&logo=python&logoColor=818CF8) ![Java](https://img.shields.io/badge/Java-161B22?style=flat-square&logo=openjdk&logoColor=818CF8) ![TypeScript](https://img.shields.io/badge/TypeScript-161B22?style=flat-square&logo=typescript&logoColor=818CF8) ![JavaScript](https://img.shields.io/badge/JavaScript-161B22?style=flat-square&logo=javascript&logoColor=818CF8) ![C++](https://img.shields.io/badge/C%2FC%2B%2B-161B22?style=flat-square&logo=cplusplus&logoColor=818CF8) ![C#](https://img.shields.io/badge/C%23-161B22?style=flat-square&logo=sharp&logoColor=818CF8) ![SQL](https://img.shields.io/badge/SQL-161B22?style=flat-square&logo=mysql&logoColor=818CF8) |
-| **Web & Backend** | ![React](https://img.shields.io/badge/React.js-161B22?style=flat-square&logo=react&logoColor=818CF8) ![Vite](https://img.shields.io/badge/Vite-161B22?style=flat-square&logo=vite&logoColor=818CF8) ![FastAPI](https://img.shields.io/badge/FastAPI-161B22?style=flat-square&logo=fastapi&logoColor=818CF8) ![Node.js](https://img.shields.io/badge/Node.js-161B22?style=flat-square&logo=nodedotjs&logoColor=818CF8) ![Express](https://img.shields.io/badge/Express.js-161B22?style=flat-square&logo=express&logoColor=818CF8) ![REST](https://img.shields.io/badge/REST_APIs-161B22?style=flat-square&logo=insomnia&logoColor=818CF8) |
-| **AI, Data & XR** | ![LangGraph](https://img.shields.io/badge/LangGraph-161B22?style=flat-square&logo=chainlink&logoColor=818CF8) ![ChromaDB](https://img.shields.io/badge/ChromaDB_RAG-161B22?style=flat-square&logo=databricks&logoColor=818CF8) ![Gemini](https://img.shields.io/badge/Gemini_API-161B22?style=flat-square&logo=googlegemini&logoColor=818CF8) ![MySQL](https://img.shields.io/badge/MySQL-161B22?style=flat-square&logo=mysql&logoColor=818CF8) ![HikariCP](https://img.shields.io/badge/HikariCP-161B22?style=flat-square&logo=apachemaven&logoColor=818CF8) ![Unity](https://img.shields.io/badge/Unity_3D-161B22?style=flat-square&logo=unity&logoColor=818CF8) |
-| **Engineering Craft** | ![RBAC](https://img.shields.io/badge/RBAC_%26_JWT-161B22?style=flat-square&logo=jsonwebtokens&logoColor=818CF8) ![JUnit5](https://img.shields.io/badge/JUnit_5-161B22?style=flat-square&logo=junit5&logoColor=818CF8) ![Git](https://img.shields.io/badge/Git_%26_Linux-161B22?style=flat-square&logo=linux&logoColor=818CF8) ![Blender](https://img.shields.io/badge/Blender-161B22?style=flat-square&logo=blender&logoColor=818CF8) ![Figma](https://img.shields.io/badge/Figma-161B22?style=flat-square&logo=figma&logoColor=818CF8) |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-161B22?style=flat-square&logo=python&logoColor=F43F5E) ![Java](https://img.shields.io/badge/Java-161B22?style=flat-square&logo=openjdk&logoColor=F43F5E) ![TypeScript](https://img.shields.io/badge/TypeScript-161B22?style=flat-square&logo=typescript&logoColor=F43F5E) ![JavaScript](https://img.shields.io/badge/JavaScript-161B22?style=flat-square&logo=javascript&logoColor=F43F5E) ![C++](https://img.shields.io/badge/C%2FC%2B%2B-161B22?style=flat-square&logo=cplusplus&logoColor=F43F5E) ![C#](https://img.shields.io/badge/C%23-161B22?style=flat-square&logo=sharp&logoColor=F43F5E) ![SQL](https://img.shields.io/badge/SQL-161B22?style=flat-square&logo=mysql&logoColor=F43F5E) |
+| **Web & Backend** | ![React](https://img.shields.io/badge/React.js-161B22?style=flat-square&logo=react&logoColor=F43F5E) ![Vite](https://img.shields.io/badge/Vite-161B22?style=flat-square&logo=vite&logoColor=F43F5E) ![FastAPI](https://img.shields.io/badge/FastAPI-161B22?style=flat-square&logo=fastapi&logoColor=F43F5E) ![Node.js](https://img.shields.io/badge/Node.js-161B22?style=flat-square&logo=nodedotjs&logoColor=F43F5E) ![Express](https://img.shields.io/badge/Express.js-161B22?style=flat-square&logo=express&logoColor=F43F5E) ![REST](https://img.shields.io/badge/REST_APIs-161B22?style=flat-square&logo=insomnia&logoColor=F43F5E) |
+| **AI, Data & XR** | ![LangGraph](https://img.shields.io/badge/LangGraph-161B22?style=flat-square&logo=chainlink&logoColor=F43F5E) ![ChromaDB](https://img.shields.io/badge/ChromaDB_RAG-161B22?style=flat-square&logo=databricks&logoColor=F43F5E) ![Gemini](https://img.shields.io/badge/Gemini_API-161B22?style=flat-square&logo=googlegemini&logoColor=F43F5E) ![MySQL](https://img.shields.io/badge/MySQL-161B22?style=flat-square&logo=mysql&logoColor=F43F5E) ![HikariCP](https://img.shields.io/badge/HikariCP-161B22?style=flat-square&logo=apachemaven&logoColor=F43F5E) ![Unity](https://img.shields.io/badge/Unity_3D-161B22?style=flat-square&logo=unity&logoColor=F43F5E) |
+| **Engineering Craft** | ![RBAC](https://img.shields.io/badge/RBAC_%26_JWT-161B22?style=flat-square&logo=jsonwebtokens&logoColor=F43F5E) ![JUnit5](https://img.shields.io/badge/JUnit_5-161B22?style=flat-square&logo=junit5&logoColor=F43F5E) ![Git](https://img.shields.io/badge/Git_%26_Linux-161B22?style=flat-square&logo=linux&logoColor=F43F5E) ![Blender](https://img.shields.io/badge/Blender-161B22?style=flat-square&logo=blender&logoColor=F43F5E) ![Figma](https://img.shields.io/badge/Figma-161B22?style=flat-square&logo=figma&logoColor=F43F5E) |
 
 </div>
 
@@ -127,10 +129,10 @@ flowchart LR
   <table>
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=harsh24239&theme=dark&background=0D1117&border=30363D&ring=6366F1&fire=818CF8&currStreakLabel=F8FAFC&sideLabels=8B949E&dates=8B949E" width="100%" alt="GitHub Streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=harsh24239&theme=dark&background=0D1117&border=30363D&ring=9F1239&fire=F43F5E&currStreakLabel=F0F6FC&sideLabels=8B949E&dates=8B949E" width="100%" alt="GitHub Streak" />
       </td>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh24239&layout=compact&langs_count=6&bg_color=0D1117&title_color=F8FAFC&text_color=8B949E&border_color=30363D" width="100%" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh24239&layout=compact&langs_count=6&bg_color=0D1117&title_color=F0F6FC&text_color=8B949E&border_color=30363D" width="100%" alt="Top Languages" />
       </td>
     </tr>
   </table>
