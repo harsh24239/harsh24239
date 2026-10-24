@@ -15,7 +15,7 @@
     <a href="https://codeinshadows.vercel.app">
       <img src="https://img.shields.io/badge/PORTFOLIO-HARSH.DEV-E50914?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" alt="Portfolio" />
     </a>
-    <a href="https://www.linkedin.com/in/harsh-kumar-837a9139b">
+    <a href="https://linkedin.com/in/harsh-kumar-837a9139b">
       <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn" />
     </a>
     <a href="https://leetcode.com/u/codezharsh">
@@ -30,7 +30,7 @@
   <p>
     <img src="https://img.shields.io/badge/CLEARANCE-AVAILABLE_FOR_SWE_%26_AI_ROLES-2EA043?style=flat-square&labelColor=0D1117" alt="Status" />
     <img src="https://img.shields.io/badge/BASE-IIIT_DELHI,_INDIA-E50914?style=flat-square&labelColor=0D1117" alt="Location" />
-    <img src="https://img.shields.io/badge/DSA_SOLVED-100%2B_PROBLEMS-FFA116?style=flat-square&labelColor=0D1117" alt="DSA" />
+    <img src="https://img.shields.io/badge/DSA_SOLVED-130%2B_PROBLEMS-FFA116?style=flat-square&labelColor=0D1117" alt="DSA" />
   </p>
 
 </div>
@@ -51,7 +51,7 @@ institution: IIIT Delhi (B.Tech CSE — 3rd Year)
 telemetry:
   shipped_systems: "6+ Production & Research Builds"
   experience:      "3+ Years Active Development"
-  dsa_foundation:  "100+ Problems Solved"
+  dsa_foundation:  "130+ Problems Solved on LeetCode"
 
 core_domains:
   01_web_systems:  "React.js, TypeScript, Node.js, Express, FastAPI"
@@ -192,17 +192,21 @@ flowchart LR
 ### `05 // TELEMETRY, LEETCODE & COMMIT VELOCITY`
 
 <div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=harsh24239&show_icons=true&bg_color=0D1117&title_color=E50914&text_color=C9D1D9&icon_color=E50914&border_color=30363D&include_all_commits=true&count_private=true" alt="Harsh's GitHub Stats" />
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh24239&layout=compact&langs_count=6&bg_color=0D1117&title_color=E50914&text_color=C9D1D9&border_color=30363D" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img height="175em" src="https://github-readme-streak-stats.herokuapp.com/?user=harsh24239&theme=dark&background=0D1117&border=30363D&ring=E50914&fire=E50914&currStreakLabel=E50914" alt="GitHub Streak" />
-  <img height="175em" src="https://leetcard.jacoblin.cool/codezharsh?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harsh24239&bg_color=0D1117&color=C9D1D9&line=E50914&point=FFFFFF&area=true&hide_border=false&border_color=30363D" alt="Activity Graph" width="98%" />
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=harsh24239&theme=dark&background=0D1117&border=30363D&ring=E50914&fire=E50914&currStreakLabel=E50914" width="100%" alt="GitHub Streak" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh24239&layout=compact&langs_count=6&bg_color=0D1117&title_color=E50914&text_color=C9D1D9&border_color=30363D" width="100%" alt="Top Languages" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://leetcard.jacoblin.cool/codezharsh?theme=dark&font=Fira%20Code&ext=heatmap" width="75%" alt="LeetCode Stats" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <!-- Animated Footer Wave -->
