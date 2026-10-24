@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <b>B.Tech CSE @ IIIT Delhi</b> &nbsp;·&nbsp; Full-Stack &amp; AI Systems Builder<br/>
+    <b>B.Tech CSAM @ IIIT Delhi</b> &nbsp;·&nbsp; Full-Stack &amp; AI Systems Builder<br/>
     <i>"Mastery is not speed. It is the elimination of wasted motion."</i>
   </p>
 
