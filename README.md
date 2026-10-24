@@ -13,17 +13,21 @@
   </p>
 
   <p>
-    <a href="https://codeinshadows.vercel.app"><img src="https://img.shields.io/badge/EXPLORE-PORTFOLIO-9F1239?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" alt="Portfolio" /></a>
-    <a href="https://www.linkedin.com/in/harsh-kumar-837a9139b"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-20202A?style=for-the-badge&logo=linkedin&logoColor=FB7185&labelColor=0D1117" alt="LinkedIn" /></a>
-    <a href="mailto:harsh24239@iiitd.ac.in"><img src="https://img.shields.io/badge/EMAIL-SAY_HELLO-20202A?style=for-the-badge&logo=gmail&logoColor=FB7185&labelColor=0D1117" alt="Email" /></a>
+    <a href="https://codeinshadows.vercel.app"><img src="https://img.shields.io/badge/EXPLORE-PORTFOLIO-9F1239?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" alt="Portfolio" /></a>&nbsp;
+    <a href="https://www.linkedin.com/in/harsh-kumar-837a9139b"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-20202A?style=for-the-badge&logo=linkedin&logoColor=FB7185&labelColor=0D1117" alt="LinkedIn" /></a>&nbsp;
+    <a href="mailto:harsh24239@iiitd.ac.in"><img src="https://img.shields.io/badge/EMAIL-SAY_HELLO-20202A?style=for-the-badge&logo=gmail&logoColor=FB7185&labelColor=0D1117" alt="Email" /></a>&nbsp;
     <a href="https://leetcode.com/u/codezharsh/"><img src="https://img.shields.io/badge/LEETCODE-PROFILE-20202A?style=for-the-badge&logo=leetcode&logoColor=FB7185&labelColor=0D1117" alt="LeetCode profile" /></a>
   </p>
 
-  <img src="https://img.shields.io/badge/CURRENT_FOCUS-AGENTIC_AI_%2B_RELIABLE_WEB_SYSTEMS-4C0519?style=flat-square&labelColor=0D1117&color=9F1239" alt="Current focus" />
-  <img src="https://img.shields.io/badge/LOCATION-NEW_DELHI%2C_INDIA-20202A?style=flat-square&labelColor=0D1117" alt="New Delhi, India" />
-  <img src="https://img.shields.io/badge/OPEN_TO-SWE_%26_AI_OPPORTUNITIES-20202A?style=flat-square&labelColor=0D1117" alt="Open to SWE and AI opportunities" />
+  <p>
+    <img src="https://img.shields.io/badge/CURRENT_FOCUS-AGENTIC_AI_%2B_RELIABLE_WEB_SYSTEMS-4C0519?style=flat-square&labelColor=0D1117&color=9F1239" alt="Current focus" />&nbsp;
+    <img src="https://img.shields.io/badge/LOCATION-NEW_DELHI%2C_INDIA-20202A?style=flat-square&labelColor=0D1117" alt="New Delhi, India" />&nbsp;
+    <img src="https://img.shields.io/badge/OPEN_TO-SWE_%26_AI_OPPORTUNITIES-20202A?style=flat-square&labelColor=0D1117" alt="Open to SWE and AI opportunities" />
+  </p>
 
 </div>
+
+<br/>
 
 ---
 
@@ -31,92 +35,108 @@
 
 <table>
   <tr>
-    <td width="33%" valign="top">
-      <sub><code>01 / ARCHITECTURE</code></sub>
-      <h4>Full-Stack Systems</h4>
-      <p><sub>Modular backends, role-gated security, connection pooling, and clean API contracts built for reliability.</sub></p>
+    <td width="333" valign="top">
+      <p>
+        <sub><code>01 // ARCHITECTURE</code></sub><br/>
+        <b><big>Full-Stack Systems</big></b>
+      </p>
+      <p>Modular backends, role-gated security, connection pooling, and clean API contracts built for production.</p>
     </td>
-    <td width="33%" valign="top">
-      <sub><code>02 / INTELLIGENCE</code></sub>
-      <h4>Agentic AI &amp; RAG</h4>
-      <p><sub>Stateful multi-agent orchestration, vector memory retrieval, and context-grounded model workflows.</sub></p>
+    <td width="333" valign="top">
+      <p>
+        <sub><code>02 // INTELLIGENCE</code></sub><br/>
+        <b><big>Agentic AI &amp; RAG</big></b>
+      </p>
+      <p>Stateful multi-agent orchestration, vector memory retrieval, and context-grounded model workflows.</p>
     </td>
-    <td width="34%" valign="top">
-      <sub><code>03 / INTERACTION</code></sub>
-      <h4>Spatial XR &amp; Craft</h4>
-      <p><sub>Immersive 3D visualization, physics-driven haptics, and high-precision interfaces with zero clutter.</sub></p>
+    <td width="334" valign="top">
+      <p>
+        <sub><code>03 // INTERACTION</code></sub><br/>
+        <b><big>Spatial XR &amp; Craft</big></b>
+      </p>
+      <p>Immersive 3D visualization, physics-driven haptics, and high-precision interfaces with zero visual clutter.</p>
     </td>
   </tr>
 </table>
+
+<br/>
 
 ---
 
 ### `02 // SELECTED WORKS`
 
 <table>
-  <!-- FEATURED FULL-WIDTH BENTO CELL -->
+  <!-- ROW 1: FLAGSHIP FULL-WIDTH SPAN -->
   <tr>
-    <td colspan="2" valign="top">
+    <td colspan="2" width="1000" valign="top">
       <p>
-        <img src="https://img.shields.io/badge/01-FLAGSHIP_BUILD-9F1239?style=flat-square&labelColor=0D1117" alt="01" />
-        <img src="https://img.shields.io/badge/AGENTIC_AI_%2B_FULL_STACK-20202A?style=flat-square&labelColor=0D1117" alt="Domain" />
-        &nbsp;
+        <img src="https://img.shields.io/badge/01-FLAGSHIP_BUILD-9F1239?style=flat-square&labelColor=0D1117" alt="01" />&nbsp;
+        <img src="https://img.shields.io/badge/AGENTIC_AI_%2B_FULL_STACK-20202A?style=flat-square&labelColor=0D1117" alt="Domain" />&nbsp;
         <a href="https://github.com/harsh24239/ai-placement-copilot">
-          <img src="https://img.shields.io/badge/GITHUB-REPO_%E2%86%97-4C0519?style=flat-square&logo=github&logoColor=FB7185" alt="Repo" />
-        </a>
+          <img src="https://img.shields.io/badge/SOURCE_CODE-GITHUB_%E2%86%97-4C0519?style=flat-square&logo=github&logoColor=FB7185" alt="Repo" />
+        </a><br/>
+        <b><big>AI Placement Copilot</big></b>
       </p>
-      <h3>AI Placement Copilot</h3>
-      <p><sub>Multi-agent technical interview and preparation engine unifying practice workflows, grounded retrieval, and real-time feedback.</sub></p>
+      <p>Stateful multi-agent interview and preparation platform unifying practice workflows, grounded vector retrieval, and real-time evaluation.</p>
       <p>
-        <kbd>React + Vite</kbd> ➔ <kbd>FastAPI</kbd> ➔ <kbd>LangGraph Router</kbd> ➔ <kbd>ChromaDB</kbd> ➔ <kbd>Gemini API</kbd>
+        <kbd>React + Vite</kbd> &nbsp;➔&nbsp; <kbd>FastAPI</kbd> &nbsp;➔&nbsp; <kbd>LangGraph Router</kbd> &nbsp;➔&nbsp; <kbd>ChromaDB</kbd> &nbsp;➔&nbsp; <kbd>Gemini API</kbd>
       </p>
     </td>
   </tr>
 
   <!-- ROW 2: SPATIAL XR -->
   <tr>
-    <td width="50%" valign="top">
+    <td width="500" valign="top">
       <p>
-        <img src="https://img.shields.io/badge/02-XR_SIMULATION-9F1239?style=flat-square&labelColor=0D1117" alt="02" />
-        &nbsp;
+        <img src="https://img.shields.io/badge/02-XR_SIMULATION-9F1239?style=flat-square&labelColor=0D1117" alt="02" />&nbsp;
         <a href="https://github.com/harsh24239/vr-manual-milling-simulator">
-          <img src="https://img.shields.io/badge/GITHUB-REPO_%E2%86%97-20202A?style=flat-square&logo=github&logoColor=FB7185" alt="Repo" />
-        </a>
+          <img src="https://img.shields.io/badge/GITHUB_%E2%86%97-20202A?style=flat-square&logo=github&logoColor=FB7185" alt="Repo" />
+        </a><br/>
+        <b><big>VR Manual Milling</big></b>
       </p>
-      <h4>VR Manual Milling</h4>
-      <p><sub>Virtual machining trainer mapping simulated cutting force to real-time controller haptics.</sub></p>
-      <p><kbd>Unity 3D</kbd> <kbd>C#</kbd> <kbd>XR Toolkit</kbd> <kbd>Blender</kbd></p>
-    </td>
-    <td width="50%" valign="top">
+      <p>Physics-driven virtual machining trainer mapping simulated cutting force to real-time controller haptics.</p>
       <p>
-        <img src="https://img.shields.io/badge/03-SPATIAL_DESIGN-20202A?style=flat-square&labelColor=0D1117" alt="03" />
+        <kbd>Unity 3D</kbd>&nbsp; <kbd>C#</kbd>&nbsp; <kbd>XR Toolkit</kbd>&nbsp; <kbd>Blender</kbd>
       </p>
-      <h4>SpatialMath XR</h4>
-      <p><sub>Interactive 3D environment turning abstract undergraduate math into manipulable spatial scenes.</sub></p>
-      <p><kbd>Unity 3D</kbd> <kbd>C#</kbd> <kbd>3D Visualization</kbd> <kbd>Shaders</kbd></p>
+    </td>
+    <td width="500" valign="top">
+      <p>
+        <img src="https://img.shields.io/badge/03-SPATIAL_COMPUTING-20202A?style=flat-square&labelColor=0D1117" alt="03" /><br/>
+        <b><big>SpatialMath XR</big></b>
+      </p>
+      <p>Interactive 3D computation environment translating abstract multivariable math into manipulable spatial scenes.</p>
+      <p>
+        <kbd>Unity 3D</kbd>&nbsp; <kbd>C#</kbd>&nbsp; <kbd>3D Visualization</kbd>&nbsp; <kbd>Shaders</kbd>
+      </p>
     </td>
   </tr>
 
   <!-- ROW 3: SYSTEMS & SECURITY -->
   <tr>
-    <td width="50%" valign="top">
+    <td width="500" valign="top">
       <p>
-        <img src="https://img.shields.io/badge/04-SECURITY_%26_AUDIT-9F1239?style=flat-square&labelColor=0D1117" alt="04" />
+        <img src="https://img.shields.io/badge/04-SECURITY_%26_AUDIT-9F1239?style=flat-square&labelColor=0D1117" alt="04" /><br/>
+        <b><big>SQVS — Credential Verifier</big></b>
       </p>
-      <h4>SQVS — Credential Verifier</h4>
-      <p><sub>Qualification verification platform built around strict role permissions, relational records, and audit trails.</sub></p>
-      <p><kbd>React</kbd> <kbd>Node.js</kbd> <kbd>Express</kbd> <kbd>MySQL</kbd> <kbd>RBAC</kbd></p>
+      <p>Role-gated qualification verification system built around strict user permissions, relational records, and audit trails.</p>
+      <p>
+        <kbd>React</kbd>&nbsp; <kbd>Node.js</kbd>&nbsp; <kbd>Express</kbd>&nbsp; <kbd>MySQL</kbd>&nbsp; <kbd>RBAC</kbd>
+      </p>
     </td>
-    <td width="50%" valign="top">
+    <td width="500" valign="top">
       <p>
-        <img src="https://img.shields.io/badge/05-LAYERED_SYSTEM-20202A?style=flat-square&labelColor=0D1117" alt="05" />
+        <img src="https://img.shields.io/badge/05-LAYERED_ARCHITECTURE-20202A?style=flat-square&labelColor=0D1117" alt="05" /><br/>
+        <b><big>4-Layer University ERP</big></b>
       </p>
-      <h4>4-Layer University ERP</h4>
-      <p><sub>Decoupled desktop ERP isolating UI, BCrypt/RBAC service logic, DAO access, and pooled storage.</sub></p>
-      <p><kbd>Java Swing</kbd> <kbd>JDBC</kbd> <kbd>HikariCP</kbd> <kbd>BCrypt</kbd> <kbd>JUnit 5</kbd></p>
+      <p>Decoupled desktop ERP isolating presentation, BCrypt/RBAC service logic, DAO persistence, and pooled storage.</p>
+      <p>
+        <kbd>Java Swing</kbd>&nbsp; <kbd>JDBC</kbd>&nbsp; <kbd>HikariCP</kbd>&nbsp; <kbd>BCrypt</kbd>&nbsp; <kbd>JUnit 5</kbd>
+      </p>
     </td>
   </tr>
 </table>
+
+<br/>
 
 ---
 
@@ -124,26 +144,36 @@
 
 <table>
   <tr>
-    <td width="22%"><b>Languages</b></td>
-    <td width="50%"><code>Python</code> · <code>Java</code> · <code>TypeScript</code> · <code>JavaScript</code> · <code>C/C++</code> · <code>C#</code> · <code>SQL</code></td>
-    <td width="28%" align="right"><img src="https://skillicons.dev/icons?i=py,java,ts,js,cpp,cs&theme=dark" height="24" alt="Languages" /></td>
+    <td width="180" valign="middle"><b>Languages</b></td>
+    <td width="540" valign="middle"><code>Python</code> · <code>Java</code> · <code>TypeScript</code> · <code>JavaScript</code> · <code>C/C++</code> · <code>C#</code> · <code>SQL</code></td>
+    <td width="280" align="right" valign="middle">
+      <img src="https://skillicons.dev/icons?i=py,java,ts,js,cpp,cs&theme=dark" height="28" alt="Languages" />
+    </td>
   </tr>
   <tr>
-    <td><b>Web &amp; Systems</b></td>
-    <td><code>React</code> · <code>Vite</code> · <code>FastAPI</code> · <code>Node.js</code> · <code>Express</code> · <code>HikariCP</code> · <code>JUnit 5</code></td>
-    <td align="right"><img src="https://skillicons.dev/icons?i=react,vite,fastapi,nodejs,express&theme=dark" height="24" alt="Web" /></td>
+    <td width="180" valign="middle"><b>Web &amp; Systems</b></td>
+    <td width="540" valign="middle"><code>React</code> · <code>Vite</code> · <code>FastAPI</code> · <code>Node.js</code> · <code>Express</code> · <code>HikariCP</code> · <code>JUnit 5</code></td>
+    <td width="280" align="right" valign="middle">
+      <img src="https://skillicons.dev/icons?i=react,vite,fastapi,nodejs,express&theme=dark" height="28" alt="Web" />
+    </td>
   </tr>
   <tr>
-    <td><b>AI &amp; Data</b></td>
-    <td><code>LangGraph</code> · <code>Multi-Agent RAG</code> · <code>ChromaDB</code> · <code>Gemini API</code> · <code>MySQL</code></td>
-    <td align="right"><img src="https://skillicons.dev/icons?i=mysql,linux,git&theme=dark" height="24" alt="Data" /></td>
+    <td width="180" valign="middle"><b>AI &amp; Data</b></td>
+    <td width="540" valign="middle"><code>LangGraph</code> · <code>Multi-Agent RAG</code> · <code>ChromaDB</code> · <code>Gemini API</code> · <code>MySQL</code></td>
+    <td width="280" align="right" valign="middle">
+      <img src="https://skillicons.dev/icons?i=mysql,linux,git&theme=dark" height="28" alt="AI and Data" />
+    </td>
   </tr>
   <tr>
-    <td><b>Spatial &amp; Craft</b></td>
-    <td><code>Unity 3D</code> · <code>XR Toolkit</code> · <code>Blender</code> · <code>Figma</code></td>
-    <td align="right"><img src="https://skillicons.dev/icons?i=unity,blender,figma&theme=dark" height="24" alt="Spatial" /></td>
+    <td width="180" valign="middle"><b>Spatial &amp; Craft</b></td>
+    <td width="540" valign="middle"><code>Unity 3D</code> · <code>XR Interaction Toolkit</code> · <code>Blender</code> · <code>Figma</code></td>
+    <td width="280" align="right" valign="middle">
+      <img src="https://skillicons.dev/icons?i=unity,blender,figma&theme=dark" height="28" alt="Spatial" />
+    </td>
   </tr>
 </table>
+
+<br/>
 
 ---
 
@@ -151,15 +181,16 @@
 
 <div align="center">
   <a href="https://github.com/harsh24239">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=harsh24239&theme=dark&background=0D1117&border=30363D&ring=9F1239&fire=FB7185&currStreakLabel=F0F6FC&sideLabels=8B949E&dates=8B949E" height="160" alt="GitHub contribution streak" />
-  </a>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=harsh24239&theme=dark&background=0D1117&border=30363D&ring=9F1239&fire=FB7185&currStreakLabel=F0F6FC&sideLabels=8B949E&dates=8B949E" height="165" alt="GitHub contribution streak" />
+  </a>&nbsp;&nbsp;
   <a href="https://github.com/harsh24239?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh24239&layout=compact&langs_count=6&bg_color=0D1117&title_color=FB7185&text_color=ABB4C0&border_color=30363D" height="160" alt="Most used repository languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh24239&layout=compact&langs_count=6&bg_color=0D1117&title_color=FB7185&text_color=ABB4C0&border_color=30363D" height="165" alt="Most used repository languages" />
   </a>
 </div>
 
+<br/>
+
 <div align="center">
-  <br/>
   <p><sub><code>DESIGN WITH INTENT</code> &nbsp;•&nbsp; <code>PRECISION OVER VOLUME</code> &nbsp;•&nbsp; <code>HARSH.DEV 影</code></sub></p>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:65142B,55:210B16,100:0D1117&height=85&section=footer" width="100%" alt="Dark wine footer wave" />
 </div>
