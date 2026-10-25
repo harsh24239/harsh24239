@@ -5,18 +5,18 @@
 
   <br/>
 
-  <!-- Editorial Thesis & Typographic Telemetry (Replaces Cluttered Status Badges) -->
+  <!-- Editorial Thesis & Typographic Telemetry -->
   <p>
     <b>B.Tech CSAM @ IIIT Delhi</b> &nbsp;·&nbsp; <b>New Delhi, India</b> &nbsp;·&nbsp; <code><b>Open to SWE & AI Roles</b></code><br/>
     <sub><i>"Mastery is not speed. It is the elimination of wasted motion."</i></sub>
   </p>
 
-  <!-- Unified 4-Channel Command Bar (Zero Logo Mismatches, 100% Visual Symmetry) -->
+  <!-- Unified 4-Channel Command Bar -->
   <p>
     <a href="https://codeinshadows.vercel.app"><img src="https://img.shields.io/badge/01-HARSH.DEV_PORTFOLIO-881337?style=flat-square&labelColor=0D1117" alt="Portfolio" /></a>&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/harsh-kumar-837a9139b"><img src="https://img.shields.io/badge/02-LINKEDIN_CONNECT-161B22?style=flat-square&labelColor=0D1117" alt="LinkedIn" /></a>&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/harsh-kumar-837a9139b/"><img src="https://img.shields.io/badge/02-LINKEDIN_CONNECT-161B22?style=flat-square&labelColor=0D1117" alt="LinkedIn" /></a>&nbsp;&nbsp;
     <a href="https://leetcode.com/u/codezharsh/"><img src="https://img.shields.io/badge/03-LEETCODE_(130%2B_DSA)-161B22?style=flat-square&labelColor=0D1117" alt="LeetCode" /></a>&nbsp;&nbsp;
-    <a href="mailto:harsh24239@iiitd.ac.in"><img src="https://img.shields.io/badge/04-EMAIL_DIRECT-161B22?style=flat-square&labelColor=0D1117" alt="Email" /></a>
+    <a href="mailto:kumarharsh1851@gmail.com"><img src="https://img.shields.io/badge/04-EMAIL_DIRECT-161B22?style=flat-square&labelColor=0D1117" alt="Email" /></a>
   </p>
 
 </div>
@@ -55,47 +55,46 @@
       <p>
         <sub><code>01 // FEATURED ARCHITECTURE</code> &nbsp;·&nbsp; <code>AGENTIC AI & RAG</code> &nbsp;·&nbsp; <b>ACTIVE BUILD</b></sub>
       </p>
-      <h4>AI Placement Copilot</h4>
+      <h4><a href="/harsh24239/ai-placement-copilot">AI Placement Copilot</a></h4>
       <p>Stateful multi-agent interview and placement preparation platform unifying coding practice workflows, grounded vector retrieval, and real-time technical evaluation.</p>
       <p>
         <sub><code>React + Vite</code> &nbsp;➔&nbsp; <code>FastAPI Gateway</code> &nbsp;➔&nbsp; <code>LangGraph Supervisor</code> &nbsp;➔&nbsp; <code>ChromaDB RAG</code> &nbsp;➔&nbsp; <code>Gemini API</code></sub>
       </p>
       <p>
-        <a href="https://github.com/harsh24239/ai-placement-copilot"><kbd> VIEW REPOSITORY ↗ </kbd></a>&nbsp;&nbsp;
-        <a href="https://codeinshadows.vercel.app"><kbd> LIVE PORTFOLIO ↗ </kbd></a>
+        <a href="/harsh24239/ai-placement-copilot"><kbd> VIEW REPOSITORY ↗ </kbd></a>
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <p><sub><code>02 // XR HAPTIC SIMULATION</code></sub></p>
-      <h4>VR Manual Milling Simulator</h4>
+      <h4><a href="/harsh24239/vr-manual-milling-simulator">VR Manual Milling Simulator</a></h4>
       <p><sub>Physics-driven virtual machining trainer mapping simulated cutting forces directly to real-time controller haptics.</sub></p>
       <p><sub><code>Unity 3D</code> · <code>C#</code> · <code>XR Interaction Toolkit</code> · <code>Blender</code></sub></p>
-      <p><a href="https://github.com/harsh24239/vr-manual-milling-simulator"><kbd> VIEW REPOSITORY ↗ </kbd></a></p>
+      <p><a href="/harsh24239/vr-manual-milling-simulator"><kbd> VIEW REPOSITORY ↗ </kbd></a></p>
     </td>
     <td width="50%" valign="top">
       <p><sub><code>03 // SPATIAL COMPUTING</code></sub></p>
-      <h4>SpatialMath XR</h4>
+      <h4><a href="/harsh24239/SpatialMath">SpatialMath XR</a></h4>
       <p><sub>Interactive 3D computation environment translating abstract multivariable mathematics into manipulable spatial scenes.</sub></p>
       <p><sub><code>Unity 3D</code> · <code>C#</code> · <code>3D Visualization</code> · <code>Custom Shaders</code></sub></p>
-      <p><a href="https://github.com/harsh24239/SpatialMath"><kbd> VIEW REPOSITORY ↗ </kbd></a></p>
+      <p><a href="/harsh24239/SpatialMath"><kbd> VIEW REPOSITORY ↗ </kbd></a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <p><sub><code>04 // ACCESS CONTROL & SECURITY</code></sub></p>
-      <h4>SQVS — Qualification Verifier</h4>
+      <h4><a href="/harsh24239?tab=repositories">SQVS — Qualification Verifier</a></h4>
       <p><sub>Role-gated credential verification system built around strict RBAC permissions, normalized schemas, and immutable audit logs.</sub></p>
       <p><sub><code>React</code> · <code>Node.js</code> · <code>Express</code> · <code>MySQL</code> · <code>RBAC</code></sub></p>
-      <p><a href="https://codeinshadows.vercel.app"><kbd> READ CASE STUDY ↗ </kbd></a></p>
+      <p><a href="/harsh24239?tab=repositories"><kbd> VIEW ON GITHUB ↗ </kbd></a></p>
     </td>
     <td width="50%" valign="top">
       <p><sub><code>05 // ENTERPRISE DESKTOP CORE</code></sub></p>
-      <h4>4-Layer University ERP</h4>
+      <h4><a href="/harsh24239?tab=repositories">4-Layer University ERP</a></h4>
       <p><sub>Decoupled desktop ERP isolating Swing presentation, BCrypt/RBAC service logic, JDBC DAO persistence, and HikariCP pooling.</sub></p>
       <p><sub><code>Java Swing</code> · <code>JDBC</code> · <code>HikariCP</code> · <code>BCrypt</code> · <code>JUnit 5</code></sub></p>
-      <p><a href="https://codeinshadows.vercel.app"><kbd> SYSTEM ARCHITECTURE ↗ </kbd></a></p>
+      <p><a href="/harsh24239?tab=repositories"><kbd> VIEW ON GITHUB ↗ </kbd></a></p>
     </td>
   </tr>
 </table>
